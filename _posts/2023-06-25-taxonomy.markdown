@@ -10,7 +10,7 @@ categories: jekyll update
 <details>
 <summary>North America and Latin America energy market</summary>
 
-
+<details>
 <summary> Cluster 01 </summary>
 
 This is test 01
@@ -18,7 +18,9 @@ This is test 01
 1.  Foo 01
  
 2.  Bar 01
+</details>
 
+<details>
 <summary> Cluster 02 </summary>
 
 This is test 02
@@ -26,8 +28,9 @@ This is test 02
 1.  Foo 02
  
 2.  Bar 02
+</details>
 
-
+<details>
 <summary> Cluster 03 </summary>
 
 This is test 03
@@ -35,6 +38,8 @@ This is test 03
 1.  Foo 03
  
 2.  Bar 03
+
+</details>
 
 </details>
 
