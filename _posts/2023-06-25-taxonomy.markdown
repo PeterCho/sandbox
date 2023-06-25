@@ -7,76 +7,177 @@ categories: jekyll update
 
 ## Super clusters ##
 
-
 <details>
 <summary> North America and Latin America energy market </summary>
 
+</details>
+
+<details>
 <summary> News coverage of industry developments </summary>
 
+</details>
+
+<details>
 <summary> International energy and geopolitical issues </summary>
 
+</details>
+
+<details>
 <summary> Hydrogen as driver for technology growth </summary>
 
+</details>
+
+<details>
 <summary> Articles discuss hydrogen in aviation industry </summary>
 
+</details>
+
+<details>
 <summary> Companies and industries driving innovation </summary>
 
+</details>
+
+<details>
 <summary> Green hydrogen investment and development </summary>
 
+</details>
+
+<details>
 <summary> Hydrogen pipeline projects and investments </summary>
 
+</details>
+
+<details>
 <summary> Renewable energy and sustainable technologies </summary>
 
+</details>
+
+<details>
 <summary> Sustainable innovation in chemical and cement industries </summary>
 
+</details>
+
+<details>
 <summary> Renewable energy investment and innovation </summary>
 
+</details>
+
+<details>
 <summary> News about regulations, research and innovations </summary>
 
+</details>
+
+<details>
 <summary> Renewable energy technologies and applications </summary>
 
+</details>
+
+<details>
 <summary> International Companies Developing Ammonia Plants </summary>
 
+</details>
+
+<details>
 <summary> India's growing investment into clean energy </summary>
 
+</details>
+
+<details>
 <summary> Renewable energy projects & partnerships </summary>
 
+</details>
+
+<details>
 <summary> Companies advance electrolysers for hydrogen production </summary>
 
+</details>
+
+<details>
 <summary> Collaboration for clean energy development </summary>
 
+</details>
+
+<details>
 <summary> Energy transition and sustainability efforts </summary>
 
+</details>
+
+<details>
 <summary> Development and Advances of Hydrogen Industry </summary>
 
+</details>
+
+<details>
 <summary> Expansion and partnerships in clean energy </summary>
 
+</details>
+
+<details>
 <summary> Renewable energy sources and hydrogen production </summary>
 
+</details>
+
+<details>
 <summary> Renewable energy projects and partnerships </summary>
 
+</details>
+
+<details>
 <summary> Fortescue and Baker Hughes lead collaborations </summary>
 
+</details>
+
+<details>
 <summary> Advancements in hydrogen fuel technology </summary>
 
+</details>
+
+<details>
 <summary> Innovation and Investment in Hydrogen </summary>
 
+</details>
+
+<details>
 <summary> Hydrogen usage and technology development </summary>
 
+</details>
+
+<details>
 <summary> Companies and individuals make green progress </summary>
 
+</details>
+
+<details>
 <summary> Global companies invest in hydrogen technology </summary>
 
+</details>
+
+<details>
 <summary> Companies and individuals in the industry </summary>
 
+</details>
+
+<details>
 <summary> EU and US counter green subsidies </summary>
 
+</details>
+
+<details>
 <summary> Stocks and policies for hydrogen growth </summary>
 
+</details>
+
+<details>
 <summary> Innovation and Investment in Hydrogen Technology </summary>
 
+</details>
+
+<details>
 <summary> Renewable energy projects in Africa </summary>
 
+</details>
+
+<details>
 <summary> Seawater used for hydrogen production </summary>
 
 </details>
