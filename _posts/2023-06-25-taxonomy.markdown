@@ -8,13 +8,33 @@ categories: jekyll update
 ## Super clusters ##
 
 <details>
-<summary>North America and Latin America energy market]</summary>
+<summary>North America and Latin America energy market</summary>
 
-This is a test
 
-1.  Foo
+<summary> Cluster 01 </summary>
 
-2.  Bar
+This is test 01
+
+1.  Foo 01
+ 
+2.  Bar 01
+
+<summary> Cluster 02 </summary>
+
+This is test 02
+
+1.  Foo 02
+ 
+2.  Bar 02
+
+
+<summary> Cluster 03 </summary>
+
+This is test 03
+
+1.  Foo 03
+ 
+2.  Bar 03
 
 </details>
 
