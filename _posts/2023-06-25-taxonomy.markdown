@@ -4,2148 +4,1720 @@ title:  "Taxonomy for 3K Green Hydrogen Articles"
 date:   2023-06-25 14:08:23 -0400
 categories: jekyll update
 ---
-<details>
-<summary> Renewable energy technologies and applications </summary>
 
-     <details>
-     <summary> Long-duration energy storage projects using innovative technology  </summary>
+<details><summary> Renewable energy technologies and applications </summary><blockquote>
 
-     </details>
+     <details><summary> Long-duration energy storage projects using innovative technology  </summary><blockquote>
 
-     <details>
-     <summary> Hydrogen power advances in aviation industry  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Hydrogen power advances in aviation industry  </summary><blockquote>
 
-     <details>
-     <summary> Toyota's electric vehicle plans and challenges  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Toyota's electric vehicle plans and challenges  </summary><blockquote>
 
-     <details>
-     <summary> Electric vehicles, funding, and government incentives  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Electric vehicles, funding, and government incentives  </summary><blockquote>
 
-     <details>
-     <summary> News on Acquisition, Chassis, Aviation, IP, and Market  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> News on Acquisition, Chassis, Aviation, IP, and Market  </summary><blockquote>
 
-     <details>
-     <summary> Electric truck manufacturer Tevva expands with hydrogen  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Electric truck manufacturer Tevva expands with hydrogen  </summary><blockquote>
 
-     <details>
-     <summary> Advances in fuel cell technology  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Advances in fuel cell technology  </summary><blockquote>
 
-     <details>
-     <summary> Renewable energy storage technologies and markets  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Renewable energy storage technologies and markets  </summary><blockquote>
 
-     <details>
-     <summary> Economic impacts of US IR Act in Europe  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Economic impacts of US IR Act in Europe  </summary><blockquote>
 
-     <details>
-     <summary> BMW develops vehicles powered by alternative fuel  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> BMW develops vehicles powered by alternative fuel  </summary><blockquote>
 
-     <details>
-     <summary> Electric Vehicle Market Trends and Forecasts  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Electric Vehicle Market Trends and Forecasts  </summary><blockquote>
 
-</details>
+     </blockquote></details>
 
-<details>
-<summary> News about regulations, research and innovations </summary>
+</blockquote></details>
 
-     <details>
-     <summary> Transportation sector to be decarbonized with hydrogen  </summary>
+<details><summary> News about regulations, research and innovations </summary><blockquote>
 
-     </details>
+     <details><summary> Transportation sector to be decarbonized with hydrogen  </summary><blockquote>
 
-     <details>
-     <summary> Decarbonization with hydrogen  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Decarbonization with hydrogen  </summary><blockquote>
 
-     <details>
-     <summary> EU policies and fossil fuel industry interference  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> EU policies and fossil fuel industry interference  </summary><blockquote>
 
-     <details>
-     <summary> Renewable innovations advance emergency power with hydrogen  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Renewable innovations advance emergency power with hydrogen  </summary><blockquote>
 
-</details>
+     </blockquote></details>
 
-<details>
-<summary> Companies advance electrolysers for hydrogen production </summary>
+</blockquote></details>
 
-     <details>
-     <summary> Advancements in Hydrogen Electrolyzers for Wind Energy  </summary>
+<details><summary> Companies advance electrolysers for hydrogen production </summary><blockquote>
 
-     </details>
+     <details><summary> Advancements in Hydrogen Electrolyzers for Wind Energy  </summary><blockquote>
 
-     <details>
-     <summary> Enapter expands production and training in Asia  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Enapter expands production and training in Asia  </summary><blockquote>
 
-     <details>
-     <summary> Expanding electrolysis capacity for low-carbon energy  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Expanding electrolysis capacity for low-carbon energy  </summary><blockquote>
 
-     <details>
-     <summary> LONGi launches new electrolysis equipment line  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> LONGi launches new electrolysis equipment line  </summary><blockquote>
 
-</details>
+     </blockquote></details>
 
-<details>
-<summary> Sustainable innovation in chemical and cement industries </summary>
+</blockquote></details>
 
-     <details>
-     <summary> Efforts to reduce carbon emissions in cement production  </summary>
+<details><summary> Sustainable innovation in chemical and cement industries </summary><blockquote>
 
-     </details>
+     <details><summary> Efforts to reduce carbon emissions in cement production  </summary><blockquote>
 
-     <details>
-     <summary> Sustainability in the manufacture of cleaning products  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Sustainability in the manufacture of cleaning products  </summary><blockquote>
 
-     <details>
-     <summary> De Nora Industries expands renewable energy capacity  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> De Nora Industries expands renewable energy capacity  </summary><blockquote>
 
-     <details>
-     <summary> Renewable energy projects in Tunisia and Belgium  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Renewable energy projects in Tunisia and Belgium  </summary><blockquote>
 
-</details>
+     </blockquote></details>
 
-<details>
-<summary> Fortescue and Baker Hughes lead collaborations </summary>
+</blockquote></details>
 
-     <details>
-     <summary> Fortescue's plans for hydrogen projects and growth  </summary>
+<details><summary> Fortescue and Baker Hughes lead collaborations </summary><blockquote>
 
-     </details>
+     <details><summary> Fortescue's plans for hydrogen projects and growth  </summary><blockquote>
 
-     <details>
-     <summary> Environmental concerns over hydrogen power in Wales  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Environmental concerns over hydrogen power in Wales  </summary><blockquote>
 
-     <details>
-     <summary> Collaborative projects to develop hydrogen infrastructure  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Collaborative projects to develop hydrogen infrastructure  </summary><blockquote>
 
-     <details>
-     <summary> Billionaires compete to export renewable energy  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Billionaires compete to export renewable energy  </summary><blockquote>
 
-     <details>
-     <summary> Renewable energy projects and emissions reduction initiatives  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Renewable energy projects and emissions reduction initiatives  </summary><blockquote>
 
-     <details>
-     <summary> Fortescue explores hydrogen opportunities in Southern Africa  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Fortescue explores hydrogen opportunities in Southern Africa  </summary><blockquote>
 
-     <details>
-     <summary> Collaborations and Expansion in Spain and Malaysia  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Collaborations and Expansion in Spain and Malaysia  </summary><blockquote>
 
-</details>
+     </blockquote></details>
 
-<details>
-<summary> India's growing investment into clean energy </summary>
+</blockquote></details>
 
-     <details>
-     <summary> India's push towards sustainable energy alternatives  </summary>
+<details><summary> India's growing investment into clean energy </summary><blockquote>
 
-     </details>
+     <details><summary> India's push towards sustainable energy alternatives  </summary><blockquote>
 
-     <details>
-     <summary> India's major investment in renewable energy plan  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> India's major investment in renewable energy plan  </summary><blockquote>
 
-     <details>
-     <summary> India's energy security strategy and diversification efforts  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> India's energy security strategy and diversification efforts  </summary><blockquote>
 
-     <details>
-     <summary> India and Panama explore collaboration for hydrogen  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> India and Panama explore collaboration for hydrogen  </summary><blockquote>
 
-     <details>
-     <summary> Investments and policies in green energy space  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Investments and policies in green energy space  </summary><blockquote>
 
-     <details>
-     <summary> Stock market, GDP, and power in India  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Stock market, GDP, and power in India  </summary><blockquote>
 
-     <details>
-     <summary> Renewable energy investment opportunities in India  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Renewable energy investment opportunities in India  </summary><blockquote>
 
-     <details>
-     <summary> Developments and investments in clean energy technology  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Developments and investments in clean energy technology  </summary><blockquote>
 
-     <details>
-     <summary> International focus on development and exportation  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> International focus on development and exportation  </summary><blockquote>
 
-     <details>
-     <summary> India's Investment in Sustainable Energy Future  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> India's Investment in Sustainable Energy Future  </summary><blockquote>
 
-     <details>
-     <summary> India's challenges and progress towards green hydrogen  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> India's challenges and progress towards green hydrogen  </summary><blockquote>
 
-     <details>
-     <summary> India's national mission to promote hydrogen energy  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> India's national mission to promote hydrogen energy  </summary><blockquote>
 
-     <details>
-     <summary> Sustainable transport fuel alternatives garner attention  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Sustainable transport fuel alternatives garner attention  </summary><blockquote>
 
-     <details>
-     <summary> India's clean energy transition and net-zero targets  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> India's clean energy transition and net-zero targets  </summary><blockquote>
 
-     <details>
-     <summary> India's move towards sustainable fuel  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> India's move towards sustainable fuel  </summary><blockquote>
 
-     <details>
-     <summary> Trafigura and Indian government plans for expansion  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Trafigura and Indian government plans for expansion  </summary><blockquote>
 
-     <details>
-     <summary> India's energy diversification and security strategy  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> India's energy diversification and security strategy  </summary><blockquote>
 
-     <details>
-     <summary> Adani Group announces spin-off of hydrogen businesses  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Adani Group announces spin-off of hydrogen businesses  </summary><blockquote>
 
-     <details>
-     <summary> India's Plans to Boost Hydrogen Production  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> India's Plans to Boost Hydrogen Production  </summary><blockquote>
 
-     <details>
-     <summary> India plans to categorize clean technologies  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> India plans to categorize clean technologies  </summary><blockquote>
 
-     <details>
-     <summary> India's budget and policies prioritize renewable energy  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> India's budget and policies prioritize renewable energy  </summary><blockquote>
 
-     <details>
-     <summary> India's ambitious plan to increase hydrogen production  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> India's ambitious plan to increase hydrogen production  </summary><blockquote>
 
-     <details>
-     <summary> News about renewable energy projects and investments  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> News about renewable energy projects and investments  </summary><blockquote>
 
-     <details>
-     <summary> Kerala's Plan to Promote Alternative Fuel  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Kerala's Plan to Promote Alternative Fuel  </summary><blockquote>
 
-     <details>
-     <summary> India explores renewable energy storage and exports  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> India explores renewable energy storage and exports  </summary><blockquote>
 
-     <details>
-     <summary> Adani Group faces setbacks in green projects  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Adani Group faces setbacks in green projects  </summary><blockquote>
 
-     <details>
-     <summary> NTPC invests in green energy technology  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> NTPC invests in green energy technology  </summary><blockquote>
 
-     <details>
-     <summary> India and Japan to boost green energy cooperation  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> India and Japan to boost green energy cooperation  </summary><blockquote>
 
-     <details>
-     <summary> Orders and Growth for Engineers India and KEC  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Orders and Growth for Engineers India and KEC  </summary><blockquote>
 
-     <details>
-     <summary> European Investment Bank supports hydrogen development worldwide  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> European Investment Bank supports hydrogen development worldwide  </summary><blockquote>
 
-     <details>
-     <summary> ReNew Power looks to expand internationally  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> ReNew Power looks to expand internationally  </summary><blockquote>
 
-     <details>
-     <summary> Jefferies weighs in on RIL stock surge  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Jefferies weighs in on RIL stock surge  </summary><blockquote>
 
-     <details>
-     <summary> Investment and development in Indian green hydrogen facilities  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Investment and development in Indian green hydrogen facilities  </summary><blockquote>
 
-     <details>
-     <summary> India's economic rise and potential  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> India's economic rise and potential  </summary><blockquote>
 
-     <details>
-     <summary> Global potential and partnerships for hydrogen infrastructure  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Global potential and partnerships for hydrogen infrastructure  </summary><blockquote>
 
-     <details>
-     <summary> Indian Oil plans net-zero emissions via hydrogen  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Indian Oil plans net-zero emissions via hydrogen  </summary><blockquote>
 
-     <details>
-     <summary> India and Fraunhofer ISE collaborate for hydrogen projects  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> India and Fraunhofer ISE collaborate for hydrogen projects  </summary><blockquote>
 
-     <details>
-     <summary> India explores investment and adoption of hydrogen  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> India explores investment and adoption of hydrogen  </summary><blockquote>
 
-     <details>
-     <summary> Renewable energy solutions and partnerships in Qatar  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Renewable energy solutions and partnerships in Qatar  </summary><blockquote>
 
-     <details>
-     <summary> India's renewable energy sector expands rapidly  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> India's renewable energy sector expands rapidly  </summary><blockquote>
 
-</details>
+     </blockquote></details>
 
-<details>
-<summary> Innovation and Investment in Hydrogen </summary>
+</blockquote></details>
 
-     <details>
-     <summary> Elcogen partners with Korean shipbuilding & ENERTRAG project  </summary>
+<details><summary> Innovation and Investment in Hydrogen </summary><blockquote>
 
-     </details>
+     <details><summary> Elcogen partners with Korean shipbuilding & ENERTRAG project  </summary><blockquote>
 
-     <details>
-     <summary> Renewable energy as fuel for transportation  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Renewable energy as fuel for transportation  </summary><blockquote>
 
-     <details>
-     <summary> Linde invests in hydrogen production in California and Texas  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Linde invests in hydrogen production in California and Texas  </summary><blockquote>
 
-     <details>
-     <summary> Fluitron roll-out hydrogen processing and dispensing products  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Fluitron roll-out hydrogen processing and dispensing products  </summary><blockquote>
 
-     <details>
-     <summary> Flame incident on liquid hydrogen carrier ship  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Flame incident on liquid hydrogen carrier ship  </summary><blockquote>
 
-     <details>
-     <summary> Sunfire's electrolyzer technology gains industrial partnerships and contracts  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Sunfire's electrolyzer technology gains industrial partnerships and contracts  </summary><blockquote>
 
-     <details>
-     <summary> Renewable-powered data centers and energy projects  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Renewable-powered data centers and energy projects  </summary><blockquote>
 
-     <details>
-     <summary> Technip Energies awarded contracts for clean energy solutions  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Technip Energies awarded contracts for clean energy solutions  </summary><blockquote>
 
-     <details>
-     <summary> Partnerships and Innovation for Fuel Cell Production  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Partnerships and Innovation for Fuel Cell Production  </summary><blockquote>
 
-     <details>
-     <summary> Renewable energy projects and carbon capture technology  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Renewable energy projects and carbon capture technology  </summary><blockquote>
 
-</details>
+     </blockquote></details>
 
-<details>
-<summary> Renewable energy sources and hydrogen production </summary>
+</blockquote></details>
 
-     <details>
-     <summary> Expansion of Bloom Energy and H2PLT in Europe  </summary>
+<details><summary> Renewable energy sources and hydrogen production </summary><blockquote>
 
-     </details>
+     <details><summary> Expansion of Bloom Energy and H2PLT in Europe  </summary><blockquote>
 
-     <details>
-     <summary> Chile's pursuit of renewable energy  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Chile's pursuit of renewable energy  </summary><blockquote>
 
-     <details>
-     <summary> Ballard fuel cells orders for Dutch wind project  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Ballard fuel cells orders for Dutch wind project  </summary><blockquote>
 
-     <details>
-     <summary> Expansion of green energy sources in Northern Europe  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Expansion of green energy sources in Northern Europe  </summary><blockquote>
 
-     <details>
-     <summary> Exploring potential use of wind power  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Exploring potential use of wind power  </summary><blockquote>
 
-     <details>
-     <summary> Renewable energy sources powering hydrogen projects  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Renewable energy sources powering hydrogen projects  </summary><blockquote>
 
-</details>
+     </blockquote></details>
 
-<details>
-<summary> Hydrogen usage and technology development </summary>
+</blockquote></details>
 
-     <details>
-     <summary> Hydrogen innovation in South Australia showcased  </summary>
+<details><summary> Hydrogen usage and technology development </summary><blockquote>
 
-     </details>
+     <details><summary> Hydrogen innovation in South Australia showcased  </summary><blockquote>
 
-     <details>
-     <summary> Development of a new renewable energy hub  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Development of a new renewable energy hub  </summary><blockquote>
 
-     <details>
-     <summary> Research funding and pilot projects in Europe  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Research funding and pilot projects in Europe  </summary><blockquote>
 
-     <details>
-     <summary> Emphasizing Clean Energy Initiatives for the Future  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Emphasizing Clean Energy Initiatives for the Future  </summary><blockquote>
 
-     <details>
-     <summary> Conferences and symposium in APAC nations  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Conferences and symposium in APAC nations  </summary><blockquote>
 
-     <details>
-     <summary> Regions seek leadership in clean energy export  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Regions seek leadership in clean energy export  </summary><blockquote>
 
-     <details>
-     <summary> Research and projects advancing hydrogen technology  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Research and projects advancing hydrogen technology  </summary><blockquote>
 
-     <details>
-     <summary> Replacing fossil fuels with alternative energy source  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Replacing fossil fuels with alternative energy source  </summary><blockquote>
 
-     <details>
-     <summary> Installation and delivery companies involved in Scotland  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Installation and delivery companies involved in Scotland  </summary><blockquote>
 
-     <details>
-     <summary> Development of hydrogen production facilities in Northern Ireland  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Development of hydrogen production facilities in Northern Ireland  </summary><blockquote>
 
-</details>
+     </blockquote></details>
 
-<details>
-<summary> Companies and individuals make green progress </summary>
+</blockquote></details>
 
-     <details>
-     <summary> Investments and awards for innovative electrolysis solutions  </summary>
+<details><summary> Companies and individuals make green progress </summary><blockquote>
 
-     </details>
+     <details><summary> Investments and awards for innovative electrolysis solutions  </summary><blockquote>
 
-     <details>
-     <summary> NASDAQ-bound company producing electrolysis systems  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> NASDAQ-bound company producing electrolysis systems  </summary><blockquote>
 
-     <details>
-     <summary> Developments in hydrogen generator technology and R&D  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Developments in hydrogen generator technology and R&D  </summary><blockquote>
 
-     <details>
-     <summary> Appointments and Financing Activities for Hydrogen Companies  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Appointments and Financing Activities for Hydrogen Companies  </summary><blockquote>
 
-     <details>
-     <summary> Altima announces Joint Venture for Hydrogen Technology  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Altima announces Joint Venture for Hydrogen Technology  </summary><blockquote>
 
-     <details>
-     <summary> Research and development of hydrogen production process  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Research and development of hydrogen production process  </summary><blockquote>
 
-     <details>
-     <summary> New CEO appointments in hydrogen industry  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> New CEO appointments in hydrogen industry  </summary><blockquote>
 
-</details>
+     </blockquote></details>
 
-<details>
-<summary> Energy transition and sustainability efforts </summary>
+</blockquote></details>
 
-     <details>
-     <summary> Advancements and calls for change in production  </summary>
+<details><summary> Energy transition and sustainability efforts </summary><blockquote>
 
-     </details>
+     <details><summary> Advancements and calls for change in production  </summary><blockquote>
 
-     <details>
-     <summary> Canada's transition to sustainable energy economy  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Canada's transition to sustainable energy economy  </summary><blockquote>
 
-     <details>
-     <summary> Energy transition efforts in Tunisia and Africa  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Energy transition efforts in Tunisia and Africa  </summary><blockquote>
 
-</details>
+     </blockquote></details>
 
-<details>
-<summary> Hydrogen pipeline projects and investments </summary>
+</blockquote></details>
 
-     <details>
-     <summary> Portugal's investment and plans for hydrogen expansion  </summary>
+<details><summary> Hydrogen pipeline projects and investments </summary><blockquote>
 
-     </details>
+     <details><summary> Portugal's investment and plans for hydrogen expansion  </summary><blockquote>
 
-     <details>
-     <summary> News on Nordic and Dutch hydrogen exports  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> News on Nordic and Dutch hydrogen exports  </summary><blockquote>
 
-     <details>
-     <summary> Green energy initiatives in Northern Europe  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Green energy initiatives in Northern Europe  </summary><blockquote>
 
-     <details>
-     <summary> Pipeline plans for offshore wind-generated fuel  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Pipeline plans for offshore wind-generated fuel  </summary><blockquote>
 
-     <details>
-     <summary> European countries plan cross-border hydrogen pipeline network  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> European countries plan cross-border hydrogen pipeline network  </summary><blockquote>
 
-     <details>
-     <summary> Partnerships, contracts and orders advance hydrogen production  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Partnerships, contracts and orders advance hydrogen production  </summary><blockquote>
 
-     <details>
-     <summary> Germany and Norway collaborate on hydrogen production  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Germany and Norway collaborate on hydrogen production  </summary><blockquote>
 
-     <details>
-     <summary> Italy seeks EU funds for gas grid  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Italy seeks EU funds for gas grid  </summary><blockquote>
 
-     <details>
-     <summary> Ukraine's potential for exporting carbon-free energy  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Ukraine's potential for exporting carbon-free energy  </summary><blockquote>
 
-     <details>
-     <summary> Germany's ambitious plans for hydrogen infrastructure expansion  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Germany's ambitious plans for hydrogen infrastructure expansion  </summary><blockquote>
 
-</details>
+     </blockquote></details>
 
-<details>
-<summary> Green hydrogen investment and development </summary>
+</blockquote></details>
 
-     <details>
-     <summary> Green energy backup solutions for datacenters  </summary>
+<details><summary> Green hydrogen investment and development </summary><blockquote>
 
-     </details>
+     <details><summary> Green energy backup solutions for datacenters  </summary><blockquote>
 
-     <details>
-     <summary> Companies collaborate on waste-to-energy aviation supply  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Companies collaborate on waste-to-energy aviation supply  </summary><blockquote>
 
-     <details>
-     <summary> Investment and trial results for hydrogen power  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Investment and trial results for hydrogen power  </summary><blockquote>
 
-     <details>
-     <summary> Investments and production of green fuel  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Investments and production of green fuel  </summary><blockquote>
 
-     <details>
-     <summary> Development and investment in Nordic hydrogen infrastructure  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Development and investment in Nordic hydrogen infrastructure  </summary><blockquote>
 
-     <details>
-     <summary> Gevo partners with Zero6, Cummins for production facility  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Gevo partners with Zero6, Cummins for production facility  </summary><blockquote>
 
-     <details>
-     <summary> Partnership to Develop Hydrogen Projects in NA, Europe  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Partnership to Develop Hydrogen Projects in NA, Europe  </summary><blockquote>
 
-</details>
+     </blockquote></details>
 
-<details>
-<summary> Renewable energy projects and partnerships </summary>
+</blockquote></details>
 
-     <details>
-     <summary> Renewable energy projects in Romania and Croatia  </summary>
+<details><summary> Renewable energy projects and partnerships </summary><blockquote>
 
-     </details>
+     <details><summary> Renewable energy projects in Romania and Croatia  </summary><blockquote>
 
-     <details>
-     <summary> ATOME Energy and Cavendish Joint Venture  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> ATOME Energy and Cavendish Joint Venture  </summary><blockquote>
 
-     <details>
-     <summary> Startups secure funding to scale hydrogen production  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Startups secure funding to scale hydrogen production  </summary><blockquote>
 
-     <details>
-     <summary> Partnership agreements for Nordic hydrogen projects  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Partnership agreements for Nordic hydrogen projects  </summary><blockquote>
 
-     <details>
-     <summary> Massive projects and initiatives for clean energy  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Massive projects and initiatives for clean energy  </summary><blockquote>
 
-     <details>
-     <summary> Partnership and Investment in Hydrogen by Australia and Germany  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Partnership and Investment in Hydrogen by Australia and Germany  </summary><blockquote>
 
-     <details>
-     <summary> Shipping green energy carrier via tankers in Australia  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Shipping green energy carrier via tankers in Australia  </summary><blockquote>
 
-     <details>
-     <summary> Issues with supply and use of hydrogen  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Issues with supply and use of hydrogen  </summary><blockquote>
 
-     <details>
-     <summary> Australia leads the world with hydrogen projects  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Australia leads the world with hydrogen projects  </summary><blockquote>
 
-     <details>
-     <summary> Mongolia project planned by Elixir Energy and SB Energy  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Mongolia project planned by Elixir Energy and SB Energy  </summary><blockquote>
 
-     <details>
-     <summary> New South Wales expands renewable energy efforts  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> New South Wales expands renewable energy efforts  </summary><blockquote>
 
-     <details>
-     <summary> Metacon expands with hydrogen projects in Slovakia and Poland  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Metacon expands with hydrogen projects in Slovakia and Poland  </summary><blockquote>
 
-</details>
+     </blockquote></details>
 
-<details>
-<summary> Global companies invest in hydrogen technology </summary>
+</blockquote></details>
 
-     <details>
-     <summary> LNG and gas crisis dominate energy news  </summary>
+<details><summary> Global companies invest in hydrogen technology </summary><blockquote>
 
-     </details>
+     <details><summary> LNG and gas crisis dominate energy news  </summary><blockquote>
 
-     <details>
-     <summary> New members join hydrogen council board  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> New members join hydrogen council board  </summary><blockquote>
 
-     <details>
-     <summary> Industry research and projects for low-cost production  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Industry research and projects for low-cost production  </summary><blockquote>
 
-     <details>
-     <summary> Shell invests in Oman's hydrogen future  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Shell invests in Oman's hydrogen future  </summary><blockquote>
 
-     <details>
-     <summary> Collaborative projects in Spain and the Netherlands  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Collaborative projects in Spain and the Netherlands  </summary><blockquote>
 
-     <details>
-     <summary> Major oil companies invest in low-carbon hydrogen  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Major oil companies invest in low-carbon hydrogen  </summary><blockquote>
 
-     <details>
-     <summary> DNV appointed for various hydrogen assessment projects  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> DNV appointed for various hydrogen assessment projects  </summary><blockquote>
 
-     <details>
-     <summary> Companies selected for Dutch hydrogen project  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Companies selected for Dutch hydrogen project  </summary><blockquote>
 
-     <details>
-     <summary> Major Energy Companies Struggle with Climate Promises  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Major Energy Companies Struggle with Climate Promises  </summary><blockquote>
 
-     <details>
-     <summary> Shell partners with Evides for Dutch hydrogen project  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Shell partners with Evides for Dutch hydrogen project  </summary><blockquote>
 
-     <details>
-     <summary> Expansion plans for hydrogen infrastructure in Germany's seaports  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Expansion plans for hydrogen infrastructure in Germany's seaports  </summary><blockquote>
 
-     <details>
-     <summary> Spain invests heavily in renewable hydrogen industry  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Spain invests heavily in renewable hydrogen industry  </summary><blockquote>
 
-     <details>
-     <summary> BP invests $2 billion to develop Spanish hub  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> BP invests $2 billion to develop Spanish hub  </summary><blockquote>
 
-</details>
+     </blockquote></details>
 
-<details>
-<summary> Collaboration for clean energy development </summary>
+</blockquote></details>
 
-     <details>
-     <summary> Development of ammonia-based hydrogen storage systems  </summary>
+<details><summary> Collaboration for clean energy development </summary><blockquote>
 
-     </details>
+     <details><summary> Development of ammonia-based hydrogen storage systems  </summary><blockquote>
 
-     <details>
-     <summary> Luxury cruise ship uses eco-friendly power  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Luxury cruise ship uses eco-friendly power  </summary><blockquote>
 
-     <details>
-     <summary> Development and use of clean ammonia  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Development and use of clean ammonia  </summary><blockquote>
 
-     <details>
-     <summary> Fuel cell innovation in maritime transportation  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Fuel cell innovation in maritime transportation  </summary><blockquote>
 
-     <details>
-     <summary> Partnerships and acquisitions in hydrogen sector  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Partnerships and acquisitions in hydrogen sector  </summary><blockquote>
 
-     <details>
-     <summary> Collaboration between JERA and TAQA for decarbonisation  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Collaboration between JERA and TAQA for decarbonisation  </summary><blockquote>
 
-</details>
+     </blockquote></details>
 
-<details>
-<summary> Companies and individuals in the industry </summary>
+</blockquote></details>
 
-     <details>
-     <summary> Appointments made for companies involved in hydrogen  </summary>
+<details><summary> Companies and individuals in the industry </summary><blockquote>
 
-     </details>
+     <details><summary> Appointments made for companies involved in hydrogen  </summary><blockquote>
 
-     <details>
-     <summary> APEX Group advances German green hydrogen project pipeline  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> APEX Group advances German green hydrogen project pipeline  </summary><blockquote>
 
-     <details>
-     <summary> Appointments and agreements in hydrogen industry company  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Appointments and agreements in hydrogen industry company  </summary><blockquote>
 
-     <details>
-     <summary> Investments in Hydrogen Technology Startup Fabrum  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Investments in Hydrogen Technology Startup Fabrum  </summary><blockquote>
 
-</details>
+     </blockquote></details>
 
-<details>
-<summary> International Companies Developing Ammonia Plants </summary>
+</blockquote></details>
 
-     <details>
-     <summary> Partnerships and Projects for Floating Clean Energy  </summary>
+<details><summary> International Companies Developing Ammonia Plants </summary><blockquote>
 
-     </details>
+     <details><summary> Partnerships and Projects for Floating Clean Energy  </summary><blockquote>
 
-     <details>
-     <summary> Thyssenkrupp Uhde expands sales and explores partnerships  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Thyssenkrupp Uhde expands sales and explores partnerships  </summary><blockquote>
 
-     <details>
-     <summary> Topsoe's technology secures Chinese ammonia production growth  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Topsoe's technology secures Chinese ammonia production growth  </summary><blockquote>
 
-     <details>
-     <summary> Ammonia production and export partnerships  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Ammonia production and export partnerships  </summary><blockquote>
 
-     <details>
-     <summary> Partnerships and Investment in Hydrogen Projects  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Partnerships and Investment in Hydrogen Projects  </summary><blockquote>
 
-     <details>
-     <summary> Partnership to Develop Hydrogen and Ammonia Plant  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Partnership to Develop Hydrogen and Ammonia Plant  </summary><blockquote>
 
-     <details>
-     <summary> Greenko invests heavily in large-scale electrolyzer orders  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Greenko invests heavily in large-scale electrolyzer orders  </summary><blockquote>
 
-     <details>
-     <summary> Oracle and Ocior advance Pakistani hydrogen project  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Oracle and Ocior advance Pakistani hydrogen project  </summary><blockquote>
 
-     <details>
-     <summary> Ammonia technology contracts in Middle East, Chile and India  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Ammonia technology contracts in Middle East, Chile and India  </summary><blockquote>
 
-</details>
+     </blockquote></details>
 
-<details>
-<summary> Development and Advances of Hydrogen Industry </summary>
+</blockquote></details>
 
-     <details>
-     <summary> Exploring the Use of Alternative Fuel Sources  </summary>
+<details><summary> Development and Advances of Hydrogen Industry </summary><blockquote>
 
-     </details>
+     <details><summary> Exploring the Use of Alternative Fuel Sources  </summary><blockquote>
 
-     <details>
-     <summary> Renewable energy powers California hydrogen production  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Renewable energy powers California hydrogen production  </summary><blockquote>
 
-     <details>
-     <summary> Collaborations and software reduce carbon emissions  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Collaborations and software reduce carbon emissions  </summary><blockquote>
 
-     <details>
-     <summary> Developments in hydrogen fuel infrastructure and industry  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Developments in hydrogen fuel infrastructure and industry  </summary><blockquote>
 
-     <details>
-     <summary> SoCalGas showcases innovative hydrogen applications  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> SoCalGas showcases innovative hydrogen applications  </summary><blockquote>
 
-</details>
+     </blockquote></details>
 
-<details>
-<summary> Hydrogen as driver for technology growth </summary>
+</blockquote></details>
 
-     <details>
-     <summary> Innovations in eco-friendly maritime transportation  </summary>
+<details><summary> Hydrogen as driver for technology growth </summary><blockquote>
 
-     </details>
+     <details><summary> Innovations in eco-friendly maritime transportation  </summary><blockquote>
 
-     <details>
-     <summary> Renewable energy alternative for heavy industry  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Renewable energy alternative for heavy industry  </summary><blockquote>
 
-     <details>
-     <summary> News about trains powered by alternative fuel sources  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> News about trains powered by alternative fuel sources  </summary><blockquote>
 
-     <details>
-     <summary> Government investments and initiatives support H2 tech  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Government investments and initiatives support H2 tech  </summary><blockquote>
 
-     <details>
-     <summary> Approval granted for North America's first hub  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Approval granted for North America's first hub  </summary><blockquote>
 
-     <details>
-     <summary> Renewable energy planning for Scottish and Irish ports  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Renewable energy planning for Scottish and Irish ports  </summary><blockquote>
 
-     <details>
-     <summary> Nova Scotia and British Columbia lead Canada's green hydrogen development  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Nova Scotia and British Columbia lead Canada's green hydrogen development  </summary><blockquote>
 
-     <details>
-     <summary> CHAR Technologies Expands Biocoal & Green Energy Production  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> CHAR Technologies Expands Biocoal & Green Energy Production  </summary><blockquote>
 
-</details>
+     </blockquote></details>
 
-<details>
-<summary> Renewable energy projects & partnerships </summary>
+</blockquote></details>
 
-     <details>
-     <summary> Agreement signed to export hydrogen to Europe  </summary>
+<details><summary> Renewable energy projects & partnerships </summary><blockquote>
 
-     </details>
+     <details><summary> Agreement signed to export hydrogen to Europe  </summary><blockquote>
 
-     <details>
-     <summary> Energy diversification efforts in Middle East countries  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Energy diversification efforts in Middle East countries  </summary><blockquote>
 
-     <details>
-     <summary> Masdar expands renewable energy portfolio in multiple countries  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Masdar expands renewable energy portfolio in multiple countries  </summary><blockquote>
 
-     <details>
-     <summary> Middle Eastern oil producers prioritize clean energy  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Middle Eastern oil producers prioritize clean energy  </summary><blockquote>
 
-     <details>
-     <summary> Bond sales fund UAE's renewable energy transition  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Bond sales fund UAE's renewable energy transition  </summary><blockquote>
 
-     <details>
-     <summary> Sustainable Aviation Fuel production partnerships and growth  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Sustainable Aviation Fuel production partnerships and growth  </summary><blockquote>
 
-     <details>
-     <summary> Global push towards renewable energy solutions  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Global push towards renewable energy solutions  </summary><blockquote>
 
-     <details>
-     <summary> Decarbonizing the steel industry  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Decarbonizing the steel industry  </summary><blockquote>
 
-     <details>
-     <summary> Developments in Oman's Renewable Energy Sector  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Developments in Oman's Renewable Energy Sector  </summary><blockquote>
 
-     <details>
-     <summary> India-UAE-France partnership for clean energy  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> India-UAE-France partnership for clean energy  </summary><blockquote>
 
-     <details>
-     <summary> Saudi Arabia's NEOM project obtains operating license  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Saudi Arabia's NEOM project obtains operating license  </summary><blockquote>
 
-     <details>
-     <summary> Deadline extension for Oman's first hydrogen auction  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Deadline extension for Oman's first hydrogen auction  </summary><blockquote>
 
-     <details>
-     <summary> European efforts to transition to clean energy  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> European efforts to transition to clean energy  </summary><blockquote>
 
-     <details>
-     <summary> Hydrogen application in public transportation pilots  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Hydrogen application in public transportation pilots  </summary><blockquote>
 
-     <details>
-     <summary> Masdar and IFC partner to develop African renewable energy  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Masdar and IFC partner to develop African renewable energy  </summary><blockquote>
 
-     <details>
-     <summary> ACWA Power expands with green hydrogen projects  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> ACWA Power expands with green hydrogen projects  </summary><blockquote>
 
-     <details>
-     <summary> Financing challenges for decarbonizing carbon-intensive industries  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Financing challenges for decarbonizing carbon-intensive industries  </summary><blockquote>
 
-</details>
+     </blockquote></details>
 
-<details>
-<summary> EU and US counter green subsidies </summary>
+</blockquote></details>
 
-     <details>
-     <summary> Investment trends in climate tech for Europe  </summary>
+<details><summary> EU and US counter green subsidies </summary><blockquote>
 
-     </details>
+     <details><summary> Investment trends in climate tech for Europe  </summary><blockquote>
 
-     <details>
-     <summary> EU implements carbon pricing policies  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> EU implements carbon pricing policies  </summary><blockquote>
 
-     <details>
-     <summary> EU to promote domestic production and catch-up  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> EU to promote domestic production and catch-up  </summary><blockquote>
 
-     <details>
-     <summary> European countries discuss funding for clean energy  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> European countries discuss funding for clean energy  </summary><blockquote>
 
-     <details>
-     <summary> EU and US compete in climate subsidy race  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> EU and US compete in climate subsidy race  </summary><blockquote>
 
-     <details>
-     <summary> EU's plan for clean tech future  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> EU's plan for clean tech future  </summary><blockquote>
 
-     <details>
-     <summary> European perspectives on sustainable energy manufacturing  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> European perspectives on sustainable energy manufacturing  </summary><blockquote>
 
-</details>
+     </blockquote></details>
 
-<details>
-<summary> Renewable energy projects in Africa </summary>
+</blockquote></details>
 
-     <details>
-     <summary> John Cockerill invests in Morocco's electrolyzer production  </summary>
+<details><summary> Renewable energy projects in Africa </summary><blockquote>
 
-     </details>
+     <details><summary> John Cockerill invests in Morocco's electrolyzer production  </summary><blockquote>
 
-     <details>
-     <summary> German corporations increase investment in Africa's energy  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> German corporations increase investment in Africa's energy  </summary><blockquote>
 
-     <details>
-     <summary> South Africa's renewable energy developments and plans  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> South Africa's renewable energy developments and plans  </summary><blockquote>
 
-     <details>
-     <summary> Sasol invests in renewable energy sources  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Sasol invests in renewable energy sources  </summary><blockquote>
 
-     <details>
-     <summary> Collaboration on Alternative Energy in Algeria  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Collaboration on Alternative Energy in Algeria  </summary><blockquote>
 
-     <details>
-     <summary> Asian & African Green Hydrogen Development  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Asian & African Green Hydrogen Development  </summary><blockquote>
 
-     <details>
-     <summary> Chariot acquires water production for Mauritania project  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Chariot acquires water production for Mauritania project  </summary><blockquote>
 
-     <details>
-     <summary> Africa-Europe cooperation in renewable energy investment  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Africa-Europe cooperation in renewable energy investment  </summary><blockquote>
 
-     <details>
-     <summary> Development of hydrogen in the Middle East and North Africa (MENA) region  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Development of hydrogen in the Middle East and North Africa (MENA) region  </summary><blockquote>
 
-     <details>
-     <summary> TotalEnergies reports record profit, plans buybacks amidst EU discord  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> TotalEnergies reports record profit, plans buybacks amidst EU discord  </summary><blockquote>
 
-     <details>
-     <summary> Advancing development of African hydrogen infrastructure  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Advancing development of African hydrogen infrastructure  </summary><blockquote>
 
-     <details>
-     <summary> International collaboration and investment in hydrogen technology  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> International collaboration and investment in hydrogen technology  </summary><blockquote>
 
-</details>
+     </blockquote></details>
 
-<details>
-<summary> Seawater used for hydrogen production </summary>
+</blockquote></details>
 
-     <details>
-     <summary> Innovative methods for hydrogen production  </summary>
+<details><summary> Seawater used for hydrogen production </summary><blockquote>
 
-     </details>
+     <details><summary> Innovative methods for hydrogen production  </summary><blockquote>
 
-     <details>
-     <summary> Innovations in Catalysts for Hydrogen Production  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Innovations in Catalysts for Hydrogen Production  </summary><blockquote>
 
-     <details>
-     <summary> Innovative methods and sources for producing hydrogen  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Innovative methods and sources for producing hydrogen  </summary><blockquote>
 
-     <details>
-     <summary> Seawater-based production of sustainable fuel  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Seawater-based production of sustainable fuel  </summary><blockquote>
 
-     <details>
-     <summary> Innovations and Challenges in Cost-Effective Production  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Innovations and Challenges in Cost-Effective Production  </summary><blockquote>
 
-     <details>
-     <summary> Green Hydrogen Production From Seawater Technological Advances  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Green Hydrogen Production From Seawater Technological Advances  </summary><blockquote>
 
-     <details>
-     <summary> Producing Hydrogen from Seawater via New Methods  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Producing Hydrogen from Seawater via New Methods  </summary><blockquote>
 
-     <details>
-     <summary> Advancements in producing hydrogen from seawater  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Advancements in producing hydrogen from seawater  </summary><blockquote>
 
-</details>
+     </blockquote></details>
 
-<details>
-<summary> Advancements in hydrogen fuel technology </summary>
+</blockquote></details>
 
-     <details>
-     <summary> Partnerships and ambitions for UK hydrogen market  </summary>
+<details><summary> Advancements in hydrogen fuel technology </summary><blockquote>
 
-     </details>
+     <details><summary> Partnerships and ambitions for UK hydrogen market  </summary><blockquote>
 
-     <details>
-     <summary> Rolls-Royce and Tenneco hydrogen engine tests  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Rolls-Royce and Tenneco hydrogen engine tests  </summary><blockquote>
 
-     <details>
-     <summary> News on Hydrogen Fuel Cell Technology Expansion  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> News on Hydrogen Fuel Cell Technology Expansion  </summary><blockquote>
 
-     <details>
-     <summary> Chemours and Ionomr Innovations Expand Operations in France  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Chemours and Ionomr Innovations Expand Operations in France  </summary><blockquote>
 
-     <details>
-     <summary> Renewable Energy Conferences and Exhibitions in Europe  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Renewable Energy Conferences and Exhibitions in Europe  </summary><blockquote>
 
-     <details>
-     <summary> Kier feasibility study on hydrogen-powered depots  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Kier feasibility study on hydrogen-powered depots  </summary><blockquote>
 
-     <details>
-     <summary> Cummins showcases fuel-agnostic platform for CVs  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Cummins showcases fuel-agnostic platform for CVs  </summary><blockquote>
 
-     <details>
-     <summary> Swedish town and rare earth metals discovery  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Swedish town and rare earth metals discovery  </summary><blockquote>
 
-     <details>
-     <summary> New developments in green fuel cell vehicles  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> New developments in green fuel cell vehicles  </summary><blockquote>
 
-     <details>
-     <summary> Innovative solutions and awards in hydrogen technology  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Innovative solutions and awards in hydrogen technology  </summary><blockquote>
 
-     <details>
-     <summary> Lhyfe expands production with new facilities  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Lhyfe expands production with new facilities  </summary><blockquote>
 
-     <details>
-     <summary> News headlines about electrolyzer systems and orders  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> News headlines about electrolyzer systems and orders  </summary><blockquote>
 
-     <details>
-     <summary> International Policy Cooperation and Subsidies for Electrolysis  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> International Policy Cooperation and Subsidies for Electrolysis  </summary><blockquote>
 
-     <details>
-     <summary> Innovations and investments in hydrogen technology  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Innovations and investments in hydrogen technology  </summary><blockquote>
 
-     <details>
-     <summary> Howden's involvement in hydrogen compressor contracts and design  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Howden's involvement in hydrogen compressor contracts and design  </summary><blockquote>
 
-     <details>
-     <summary> Norwegian companies partner for hydrogen infrastructure expansion  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Norwegian companies partner for hydrogen infrastructure expansion  </summary><blockquote>
 
-     <details>
-     <summary> Events and Summits Highlighting H2 Advancements  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Events and Summits Highlighting H2 Advancements  </summary><blockquote>
 
-     <details>
-     <summary> Partnerships driving transition to green energy  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Partnerships driving transition to green energy  </summary><blockquote>
 
-     <details>
-     <summary> Companies collaborate on fuel cell development  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Companies collaborate on fuel cell development  </summary><blockquote>
 
-     <details>
-     <summary> Fuel cell buses and generators drive innovation  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Fuel cell buses and generators drive innovation  </summary><blockquote>
 
-     <details>
-     <summary> Advancements in Hydrogen Transport and Storage Technologies  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Advancements in Hydrogen Transport and Storage Technologies  </summary><blockquote>
 
-     <details>
-     <summary> Development and deployment of hydrogen-powered trucks in India  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Development and deployment of hydrogen-powered trucks in India  </summary><blockquote>
 
-     <details>
-     <summary> Advancements in fuel cell technology for various industries  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Advancements in fuel cell technology for various industries  </summary><blockquote>
 
-     <details>
-     <summary> Collaboration to Develop Solid Oxide Electrolyzers  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Collaboration to Develop Solid Oxide Electrolyzers  </summary><blockquote>
 
-     <details>
-     <summary> Expansion of hydrogen refuelling infrastructure in Europe  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Expansion of hydrogen refuelling infrastructure in Europe  </summary><blockquote>
 
-     <details>
-     <summary> News about steel industry's decarbonization efforts  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> News about steel industry's decarbonization efforts  </summary><blockquote>
 
-     <details>
-     <summary> Comparing Fuel Cell Electric Vehicles to Battery-Electric  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Comparing Fuel Cell Electric Vehicles to Battery-Electric  </summary><blockquote>
 
-     <details>
-     <summary> Loop Energy announces new partnerships and board addition  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Loop Energy announces new partnerships and board addition  </summary><blockquote>
 
-     <details>
-     <summary> Investment in low-carbon energy transition projects  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Investment in low-carbon energy transition projects  </summary><blockquote>
 
-     <details>
-     <summary> Hydrogen production from plastic waste in Europe  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Hydrogen production from plastic waste in Europe  </summary><blockquote>
 
-     <details>
-     <summary> HDF Energy expands production of hydrogen fuel cells  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> HDF Energy expands production of hydrogen fuel cells  </summary><blockquote>
 
-     <details>
-     <summary> Advancements in marine industry fuel technology  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Advancements in marine industry fuel technology  </summary><blockquote>
 
-     <details>
-     <summary> New hydrogen-powered vehicles and equipment unveiled  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> New hydrogen-powered vehicles and equipment unveiled  </summary><blockquote>
 
-</details>
+     </blockquote></details>
 
-<details>
-<summary> Stocks and policies for hydrogen growth </summary>
+</blockquote></details>
 
-     <details>
-     <summary> Hyzon Motors' Delayed Disclosure Hearings  </summary>
+<details><summary> Stocks and policies for hydrogen growth </summary><blockquote>
 
-     </details>
+     <details><summary> Hyzon Motors' Delayed Disclosure Hearings  </summary><blockquote>
 
-     <details>
-     <summary> Investment opportunities in clean energy technologies  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Investment opportunities in clean energy technologies  </summary><blockquote>
 
-     <details>
-     <summary> Air Products expands with new offices and sponsorships  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Air Products expands with new offices and sponsorships  </summary><blockquote>
 
-     <details>
-     <summary> Investment opportunities in alternative energy  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Investment opportunities in alternative energy  </summary><blockquote>
 
-     <details>
-     <summary> News on US policy and IRA driving growth  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> News on US policy and IRA driving growth  </summary><blockquote>
 
-     <details>
-     <summary> Analysis of companies investing in low-carbon technologies  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Analysis of companies investing in low-carbon technologies  </summary><blockquote>
 
-</details>
+     </blockquote></details>
 
-<details>
-<summary> Companies and industries driving innovation </summary>
+</blockquote></details>
 
-     <details>
-     <summary> Nel ASA expands production for electrolysers  </summary>
+<details><summary> Companies and industries driving innovation </summary><blockquote>
 
-     </details>
+     <details><summary> Nel ASA expands production for electrolysers  </summary><blockquote>
 
-     <details>
-     <summary> Mining and exploration updates with critical elements  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Mining and exploration updates with critical elements  </summary><blockquote>
 
-     <details>
-     <summary> Getech Group sees growth in renewable energy contracts  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Getech Group sees growth in renewable energy contracts  </summary><blockquote>
 
-     <details>
-     <summary> Financial results and order backlog updates  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Financial results and order backlog updates  </summary><blockquote>
 
-     <details>
-     <summary> Updates and plans for renewable energy companies  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Updates and plans for renewable energy companies  </summary><blockquote>
 
-     <details>
-     <summary> Financial reports of Cummins and Cognex  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Financial reports of Cummins and Cognex  </summary><blockquote>
 
-     <details>
-     <summary> Financial success of a company  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Financial success of a company  </summary><blockquote>
 
-     <details>
-     <summary> Financial performance of major industrial gas companies  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Financial performance of major industrial gas companies  </summary><blockquote>
 
-     <details>
-     <summary> Nikola and GP Joule partner for FCEVs  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Nikola and GP Joule partner for FCEVs  </summary><blockquote>
 
-     <details>
-     <summary> Financial struggles and layoffs at ITM Power  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Financial struggles and layoffs at ITM Power  </summary><blockquote>
 
-     <details>
-     <summary> Positive financial results for companies in the energy sector  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Positive financial results for companies in the energy sector  </summary><blockquote>
 
-     <details>
-     <summary> Financial reports for companies involved in hydrogen technology  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Financial reports for companies involved in hydrogen technology  </summary><blockquote>
 
-     <details>
-     <summary> Market performance and economic outlook updates  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Market performance and economic outlook updates  </summary><blockquote>
 
-     <details>
-     <summary> CF Industries and CIP invest in ammonia projects  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> CF Industries and CIP invest in ammonia projects  </summary><blockquote>
 
-     <details>
-     <summary> Corporate trading updates and mining outlook  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Corporate trading updates and mining outlook  </summary><blockquote>
 
-     <details>
-     <summary> Sasol's renewable energy integration and sales metrics  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Sasol's renewable energy integration and sales metrics  </summary><blockquote>
 
-     <details>
-     <summary> Fusion Fuel receives funding and grants  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Fusion Fuel receives funding and grants  </summary><blockquote>
 
-     <details>
-     <summary> Q4 2022 Earnings of Various Energy Companies  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Q4 2022 Earnings of Various Energy Companies  </summary><blockquote>
 
-</details>
+     </blockquote></details>
 
-<details>
-<summary> International energy and geopolitical issues </summary>
+</blockquote></details>
 
-     <details>
-     <summary> Geopolitical and production concerns  </summary>
+<details><summary> International energy and geopolitical issues </summary><blockquote>
 
-     </details>
+     <details><summary> Geopolitical and production concerns  </summary><blockquote>
 
-     <details>
-     <summary> France, Germany, India discuss clean energy technology  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> France, Germany, India discuss clean energy technology  </summary><blockquote>
 
-     <details>
-     <summary> Kazakhstan's political climate and international relations  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Kazakhstan's political climate and international relations  </summary><blockquote>
 
-     <details>
-     <summary> International politics and environmental resources  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> International politics and environmental resources  </summary><blockquote>
 
-     <details>
-     <summary> Issues surrounding energy supply and geopolitics  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Issues surrounding energy supply and geopolitics  </summary><blockquote>
 
-</details>
+     </blockquote></details>
 
-<details>
-<summary> News coverage of industry developments </summary>
+</blockquote></details>
 
-     <details>
-     <summary> Wind power fuel generation in Texas and Wyoming  </summary>
+<details><summary> News coverage of industry developments </summary><blockquote>
 
-     </details>
+     <details><summary> Wind power fuel generation in Texas and Wyoming  </summary><blockquote>
 
-     <details>
-     <summary> US regions compete for hydrogen hub funding  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> US regions compete for hydrogen hub funding  </summary><blockquote>
 
-     <details>
-     <summary> Natural gas blending tests with hydrogen  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Natural gas blending tests with hydrogen  </summary><blockquote>
 
-     <details>
-     <summary> Developments and setbacks in electrolyser plant partnerships  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Developments and setbacks in electrolyser plant partnerships  </summary><blockquote>
 
-     <details>
-     <summary> Florida utility expands renewable energy production  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Florida utility expands renewable energy production  </summary><blockquote>
 
-     <details>
-     <summary> Discussions on tax breaks and industry challenges  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Discussions on tax breaks and industry challenges  </summary><blockquote>
 
-     <details>
-     <summary> Controversy surrounds LA power plant conversion  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Controversy surrounds LA power plant conversion  </summary><blockquote>
 
-     <details>
-     <summary> Power company explores alternative energy production  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Power company explores alternative energy production  </summary><blockquote>
 
-     <details>
-     <summary> Hydrogen development in Australia/mainly Western Australia  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Hydrogen development in Australia/mainly Western Australia  </summary><blockquote>
 
-     <details>
-     <summary> Plug Power's progress and challenges  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Plug Power's progress and challenges  </summary><blockquote>
 
-     <details>
-     <summary> Australia's Green Hydrogen Industry Losing Ground  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Australia's Green Hydrogen Industry Losing Ground  </summary><blockquote>
 
-</details>
+     </blockquote></details>
 
-<details>
-<summary> North America and Latin America energy market </summary>
+</blockquote></details>
 
-     <details>
-     <summary> North America's energy transition acceleration and challenges  </summary>
+<details><summary> North America and Latin America energy market </summary><blockquote>
 
-     </details>
+     <details><summary> North America's energy transition acceleration and challenges  </summary><blockquote>
 
-     <details>
-     <summary> Data centers adopting renewable energy initiatives  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Data centers adopting renewable energy initiatives  </summary><blockquote>
 
-     <details>
-     <summary> InvestChile's portfolio includes significant hydrogen projects  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> InvestChile's portfolio includes significant hydrogen projects  </summary><blockquote>
 
-     <details>
-     <summary> Latin America explores clean fuel innovations  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Latin America explores clean fuel innovations  </summary><blockquote>
 
-</details>
+     </blockquote></details>
 
-<details>
-<summary> Articles discuss hydrogen in aviation industry </summary>
+</blockquote></details>
 
-     <details>
-     <summary> Alternatives to traditional air travel fuel  </summary>
+<details><summary> Articles discuss hydrogen in aviation industry </summary><blockquote>
 
-     </details>
+     <details><summary> Alternatives to traditional air travel fuel  </summary><blockquote>
 
-     <details>
-     <summary> Partnerships and initiatives for sustainable aviation  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Partnerships and initiatives for sustainable aviation  </summary><blockquote>
 
-     <details>
-     <summary> Experimental hydrogen-powered aviation gains ground  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Experimental hydrogen-powered aviation gains ground  </summary><blockquote>
 
-     <details>
-     <summary> Synthetic fuels create buzz in sustainability push  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Synthetic fuels create buzz in sustainability push  </summary><blockquote>
 
-     <details>
-     <summary> Challenges of sustainable aviation biofuel explored  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Challenges of sustainable aviation biofuel explored  </summary><blockquote>
 
-</details>
+     </blockquote></details>
 
-<details>
-<summary> Expansion and partnerships in clean energy </summary>
+</blockquote></details>
 
-     <details>
-     <summary> Capstone Green Energy's Follow-On Orders and Presentations  </summary>
+<details><summary> Expansion and partnerships in clean energy </summary><blockquote>
 
-     </details>
+     <details><summary> Capstone Green Energy's Follow-On Orders and Presentations  </summary><blockquote>
 
-     <details>
-     <summary> Tech startups and expansion in Houston energy industry  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Tech startups and expansion in Houston energy industry  </summary><blockquote>
 
-     <details>
-     <summary> Collaborations and alliances for carbon-neutral technology  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Collaborations and alliances for carbon-neutral technology  </summary><blockquote>
 
-     <details>
-     <summary> Mott Corporation expands its clean energy business  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Mott Corporation expands its clean energy business  </summary><blockquote>
 
-</details>
+     </blockquote></details>
 
-<details>
-<summary> Innovation and Investment in Hydrogen Technology </summary>
+</blockquote></details>
 
-     <details>
-     <summary> Spain and Portugal's leadership in hydrogen innovation  </summary>
+<details><summary> Innovation and Investment in Hydrogen Technology </summary><blockquote>
 
-     </details>
+     <details><summary> Spain and Portugal's leadership in hydrogen innovation  </summary><blockquote>
 
-     <details>
-     <summary> Gold miners and Platinum benefit from adoption  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Gold miners and Platinum benefit from adoption  </summary><blockquote>
 
-     <details>
-     <summary> California's climate change initiatives and policies  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> California's climate change initiatives and policies  </summary><blockquote>
 
-     <details>
-     <summary> Patent data reveals increasing interest in technology  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Patent data reveals increasing interest in technology  </summary><blockquote>
 
-     <details>
-     <summary> Exploring potential and challenges of hydrogen power  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Exploring potential and challenges of hydrogen power  </summary><blockquote>
 
-     <details>
-     <summary> UK initiatives drive hydrogen industry development  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> UK initiatives drive hydrogen industry development  </summary><blockquote>
 
-     <details>
-     <summary> Countries Compete for Dominance in Hydrogen Industry  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Countries Compete for Dominance in Hydrogen Industry  </summary><blockquote>
 
-     <details>
-     <summary> Exploring the Viability of Hydrogen Energy  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Exploring the Viability of Hydrogen Energy  </summary><blockquote>
 
-     <details>
-     <summary> Development and challenges of hydrogen projects  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Development and challenges of hydrogen projects  </summary><blockquote>
 
-     <details>
-     <summary> Development and Investment in Hydrogen Technology  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Development and Investment in Hydrogen Technology  </summary><blockquote>
 
-     <details>
-     <summary> Launch of €100m hydrogen investment portfolio in Europe  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Launch of €100m hydrogen investment portfolio in Europe  </summary><blockquote>
 
-     <details>
-     <summary> Developing renewable energy opportunities in Asia-Pacific  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Developing renewable energy opportunities in Asia-Pacific  </summary><blockquote>
 
-     <details>
-     <summary> Cost competitiveness of imported hydrogen in EU  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Cost competitiveness of imported hydrogen in EU  </summary><blockquote>
 
-     <details>
-     <summary> Electrolyzer market growth drives green energy innovation  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Electrolyzer market growth drives green energy innovation  </summary><blockquote>
 
-     <details>
-     <summary> Investment and growth potential in green hydrogen  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Investment and growth potential in green hydrogen  </summary><blockquote>
 
-     <details>
-     <summary> Ammonia as alternative fuel source gains momentum  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Ammonia as alternative fuel source gains momentum  </summary><blockquote>
 
-     <details>
-     <summary> Johnson Matthey and Plug Power partnership announcement  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Johnson Matthey and Plug Power partnership announcement  </summary><blockquote>
 
-     <details>
-     <summary> Oil majors' investments and renewable energy transition  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Oil majors' investments and renewable energy transition  </summary><blockquote>
 
-     <details>
-     <summary> Certification schemes for renewable energy source  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Certification schemes for renewable energy source  </summary><blockquote>
 
-     <details>
-     <summary> Renewable fuel source in Northeastern US  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Renewable fuel source in Northeastern US  </summary><blockquote>
 
-     <details>
-     <summary> Innovative technologies for sustainable fuel production  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Innovative technologies for sustainable fuel production  </summary><blockquote>
 
-     <details>
-     <summary> The future of decarbonizing with hydrogen  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> The future of decarbonizing with hydrogen  </summary><blockquote>
 
-     <details>
-     <summary> Investment and research in alternative energy source  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Investment and research in alternative energy source  </summary><blockquote>
 
-     <details>
-     <summary> EU Regulations and Controversies Surrounding Hydrogen Production  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> EU Regulations and Controversies Surrounding Hydrogen Production  </summary><blockquote>
 
-     <details>
-     <summary> European initiatives for aviation decarbonization  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> European initiatives for aviation decarbonization  </summary><blockquote>
 
-     <details>
-     <summary> Outlook bright for hydrogen as energy source  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Outlook bright for hydrogen as energy source  </summary><blockquote>
 
-     <details>
-     <summary> Africa's potential for renewable energy development  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Africa's potential for renewable energy development  </summary><blockquote>
 
-     <details>
-     <summary> Comparing Electrolyzer Technologies & Blue Hydrogen Carbon Capture  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Comparing Electrolyzer Technologies & Blue Hydrogen Carbon Capture  </summary><blockquote>
 
-     <details>
-     <summary> Upcoming events and investment opportunities for hydrogen  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Upcoming events and investment opportunities for hydrogen  </summary><blockquote>
 
-     <details>
-     <summary> Market growth and feasibility of green electrolysis  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Market growth and feasibility of green electrolysis  </summary><blockquote>
 
-     <details>
-     <summary> Japan's struggles with hydrogen policy implementation  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Japan's struggles with hydrogen policy implementation  </summary><blockquote>
 
-     <details>
-     <summary> Innovations and challenges in hydrogen technology  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Innovations and challenges in hydrogen technology  </summary><blockquote>
 
-     <details>
-     <summary> Exploring collaborations to promote hydrogen technology  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Exploring collaborations to promote hydrogen technology  </summary><blockquote>
 
-     <details>
-     <summary> Exploring potential and challenges of hydrogen energy  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Exploring potential and challenges of hydrogen energy  </summary><blockquote>
 
-     <details>
-     <summary> Water scarcity challenges green hydrogen production  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Water scarcity challenges green hydrogen production  </summary><blockquote>
 
-     <details>
-     <summary> Turkey's energy plan and strategy for 2053  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Turkey's energy plan and strategy for 2053  </summary><blockquote>
 
-</details>
+     </blockquote></details>
 
-<details>
-<summary> Renewable energy investment and innovation </summary>
+</blockquote></details>
 
-     <details>
-     <summary> Renewable energy sector sees significant growth  </summary>
+<details><summary> Renewable energy investment and innovation </summary><blockquote>
 
-     </details>
+     <details><summary> Renewable energy sector sees significant growth  </summary><blockquote>
 
-     <details>
-     <summary> Investment in low-carbon energy transition  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Investment in low-carbon energy transition  </summary><blockquote>
 
-     <details>
-     <summary> Renewable energy stocks and startups in 2023  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Renewable energy stocks and startups in 2023  </summary><blockquote>
 
-     <details>
-     <summary> Deployment and Investment in Clean Energy Technologies  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Deployment and Investment in Clean Energy Technologies  </summary><blockquote>
 
-     <details>
-     <summary> Mining sectors and metals shift in popularity  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Mining sectors and metals shift in popularity  </summary><blockquote>
 
-     <details>
-     <summary> UK economy prioritizes green growth amidst energy concerns  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> UK economy prioritizes green growth amidst energy concerns  </summary><blockquote>
 
-     <details>
-     <summary> Emerging technological innovations in sustainable energy  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Emerging technological innovations in sustainable energy  </summary><blockquote>
 
-     <details>
-     <summary> Energy market predictions and post-oil era glimpses  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Energy market predictions and post-oil era glimpses  </summary><blockquote>
 
-     <details>
-     <summary> Investment focus on energy diversification opportunities  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Investment focus on energy diversification opportunities  </summary><blockquote>
 
-     <details>
-     <summary> Global leaders discuss energy shift at Davos  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Global leaders discuss energy shift at Davos  </summary><blockquote>
 
-     <details>
-     <summary> Climate and finance challenges examined in Davos  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Climate and finance challenges examined in Davos  </summary><blockquote>
 
-     <details>
-     <summary> Climate solutions and tipping points towards net zero  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Climate solutions and tipping points towards net zero  </summary><blockquote>
 
-     <details>
-     <summary> Fracking debate impacts renewables' public opinion  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Fracking debate impacts renewables' public opinion  </summary><blockquote>
 
-     <details>
-     <summary> Food and fertilizer  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Food and fertilizer  </summary><blockquote>
 
-     <details>
-     <summary> Government policies and funding for hydrogen initiatives  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Government policies and funding for hydrogen initiatives  </summary><blockquote>
 
-     <details>
-     <summary> Financial reports and commitment to environmental stewardship  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Financial reports and commitment to environmental stewardship  </summary><blockquote>
 
-     <details>
-     <summary> Renewable energy acceleration amidst Russian-Ukrainian conflict  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Renewable energy acceleration amidst Russian-Ukrainian conflict  </summary><blockquote>
 
-     <details>
-     <summary> Cleantech and industrial decarbonization plans  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Cleantech and industrial decarbonization plans  </summary><blockquote>
 
-     <details>
-     <summary> Innovative strategies and investment for clean energy  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Innovative strategies and investment for clean energy  </summary><blockquote>
 
-     <details>
-     <summary> Debate over nuclear as renewable energy alternative  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Debate over nuclear as renewable energy alternative  </summary><blockquote>
 
-     <details>
-     <summary> Topics: Moon Exploration, False Messiahs, Israeli Politics, Legal Controversy  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Topics: Moon Exploration, False Messiahs, Israeli Politics, Legal Controversy  </summary><blockquote>
 
-     <details>
-     <summary> Financial performance and market approach of companies  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Financial performance and market approach of companies  </summary><blockquote>
 
-     <details>
-     <summary> Energy transitions and investments  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Energy transitions and investments  </summary><blockquote>
 
-     <details>
-     <summary> China's Renewable Investment and Clean Tech Dominance  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> China's Renewable Investment and Clean Tech Dominance  </summary><blockquote>
 
-     <details>
-     <summary> Offshore wind power and energy transition trends  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Offshore wind power and energy transition trends  </summary><blockquote>
 
-     <details>
-     <summary> Energy transition, climate change, and environment news  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Energy transition, climate change, and environment news  </summary><blockquote>
 
-     <details>
-     <summary> Transitioning to zero emissions  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Transitioning to zero emissions  </summary><blockquote>
 
-</details>
+     </blockquote></details>
 
-<details>
-<summary> Renewable energy and sustainable technologies </summary>
+</blockquote></details>
 
-     <details>
-     <summary> Market analysis and growth forecast for hydrogen  </summary>
+<details><summary> Renewable energy and sustainable technologies </summary><blockquote>
 
-     </details>
+     <details><summary> Market analysis and growth forecast for hydrogen  </summary><blockquote>
 
-     <details>
-     <summary> Technological advancements and market outlook for hydrogen  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Technological advancements and market outlook for hydrogen  </summary><blockquote>
 
-     <details>
-     <summary> Market growth and trends of hydrogen  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Market growth and trends of hydrogen  </summary><blockquote>
 
-     <details>
-     <summary> Growth and market potential in mining  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Growth and market potential in mining  </summary><blockquote>
 
-     <details>
-     <summary> Market growth expected for hydrogen-powered transportation systems  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Market growth expected for hydrogen-powered transportation systems  </summary><blockquote>
 
-     <details>
-     <summary> Market projection for power generation and storage  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Market projection for power generation and storage  </summary><blockquote>
 
-     <details>
-     <summary> Emerging markets predictions for sustainable development  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Emerging markets predictions for sustainable development  </summary><blockquote>
 
-     <details>
-     <summary> Market growth and analysis of fuel cells  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Market growth and analysis of fuel cells  </summary><blockquote>
 
-     <details>
-     <summary> Market trends of related industries to green hydrogen  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Market trends of related industries to green hydrogen  </summary><blockquote>
 
-     <details>
-     <summary> Market Analysis for Related Chemical Industries  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Market Analysis for Related Chemical Industries  </summary><blockquote>
 
-     <details>
-     <summary> Global steel market's transition to sustainability  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Global steel market's transition to sustainability  </summary><blockquote>
 
-     <details>
-     <summary> Energy management, construction equipment & market growth  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Energy management, construction equipment & market growth  </summary><blockquote>
 
-     <details>
-     <summary> Market insights on green ammonia and fertilizers  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Market insights on green ammonia and fertilizers  </summary><blockquote>
 
-     <details>
-     <summary> News on energy storage and key players  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> News on energy storage and key players  </summary><blockquote>
 
-     <details>
-     <summary> Market growth and analysis of clean energy  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Market growth and analysis of clean energy  </summary><blockquote>
 
-     <details>
-     <summary> Rapid growth projected for alternative energy source  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Rapid growth projected for alternative energy source  </summary><blockquote>
 
-     <details>
-     <summary> Renewable and sustainable fuel market analysis  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Renewable and sustainable fuel market analysis  </summary><blockquote>
 
-     <details>
-     <summary> Market growth projections for electrolysis technology  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Market growth projections for electrolysis technology  </summary><blockquote>
 
-     <details>
-     <summary> Growing Global Investment in Hydrogen Production  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Growing Global Investment in Hydrogen Production  </summary><blockquote>
 
-     <details>
-     <summary> Fusion Fuel Fourth Quarter Investor Update  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Fusion Fuel Fourth Quarter Investor Update  </summary><blockquote>
 
-     <details>
-     <summary> Market analysis of chelating agents and fertilizers  </summary>
+     </blockquote></details>
 
-     </details>
+     <details><summary> Market analysis of chelating agents and fertilizers  </summary><blockquote>
 
-</details>
+     </blockquote></details>
+
+</blockquote></details>
 
