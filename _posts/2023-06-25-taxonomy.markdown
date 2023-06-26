@@ -5,60 +5,8 @@ date:   2023-06-25 14:08:23 -0400
 categories: jekyll update
 ---
 
-## Super clusters ##
-
 <details>
-<summary> North America and Latin America energy market </summary>
-
-</details>
-
-<details>
-<summary> News coverage of industry developments </summary>
-
-</details>
-
-<details>
-<summary> International energy and geopolitical issues </summary>
-
-</details>
-
-<details>
-<summary> Hydrogen as driver for technology growth </summary>
-
-</details>
-
-<details>
-<summary> Articles discuss hydrogen in aviation industry </summary>
-
-</details>
-
-<details>
-<summary> Companies and industries driving innovation </summary>
-
-</details>
-
-<details>
-<summary> Green hydrogen investment and development </summary>
-
-</details>
-
-<details>
-<summary> Hydrogen pipeline projects and investments </summary>
-
-</details>
-
-<details>
-<summary> Renewable energy and sustainable technologies </summary>
-
-</details>
-
-<details>
-<summary> Sustainable innovation in chemical and cement industries </summary>
-
-</details>
-
-<details>
-<summary> Renewable energy investment and innovation </summary>
+<summary> Renewable energy technologies and applications </summary>
 
 </details>
 
@@ -68,57 +16,12 @@ categories: jekyll update
 </details>
 
 <details>
-<summary> Renewable energy technologies and applications </summary>
-
-</details>
-
-<details>
-<summary> International Companies Developing Ammonia Plants </summary>
-
-</details>
-
-<details>
-<summary> India's growing investment into clean energy </summary>
-
-</details>
-
-<details>
-<summary> Renewable energy projects & partnerships </summary>
-
-</details>
-
-<details>
 <summary> Companies advance electrolysers for hydrogen production </summary>
 
 </details>
 
 <details>
-<summary> Collaboration for clean energy development </summary>
-
-</details>
-
-<details>
-<summary> Energy transition and sustainability efforts </summary>
-
-</details>
-
-<details>
-<summary> Development and Advances of Hydrogen Industry </summary>
-
-</details>
-
-<details>
-<summary> Expansion and partnerships in clean energy </summary>
-
-</details>
-
-<details>
-<summary> Renewable energy sources and hydrogen production </summary>
-
-</details>
-
-<details>
-<summary> Renewable energy projects and partnerships </summary>
+<summary> Sustainable innovation in chemical and cement industries </summary>
 
 </details>
 
@@ -128,12 +31,17 @@ categories: jekyll update
 </details>
 
 <details>
-<summary> Advancements in hydrogen fuel technology </summary>
+<summary> India's growing investment into clean energy </summary>
 
 </details>
 
 <details>
 <summary> Innovation and Investment in Hydrogen </summary>
+
+</details>
+
+<details>
+<summary> Renewable energy sources and hydrogen production </summary>
 
 </details>
 
@@ -148,7 +56,32 @@ categories: jekyll update
 </details>
 
 <details>
+<summary> Energy transition and sustainability efforts </summary>
+
+</details>
+
+<details>
+<summary> Hydrogen pipeline projects and investments </summary>
+
+</details>
+
+<details>
+<summary> Green hydrogen investment and development </summary>
+
+</details>
+
+<details>
+<summary> Renewable energy projects and partnerships </summary>
+
+</details>
+
+<details>
 <summary> Global companies invest in hydrogen technology </summary>
+
+</details>
+
+<details>
+<summary> Collaboration for clean energy development </summary>
 
 </details>
 
@@ -158,17 +91,27 @@ categories: jekyll update
 </details>
 
 <details>
+<summary> International Companies Developing Ammonia Plants </summary>
+
+</details>
+
+<details>
+<summary> Development and Advances of Hydrogen Industry </summary>
+
+</details>
+
+<details>
+<summary> Hydrogen as driver for technology growth </summary>
+
+</details>
+
+<details>
+<summary> Renewable energy projects & partnerships </summary>
+
+</details>
+
+<details>
 <summary> EU and US counter green subsidies </summary>
-
-</details>
-
-<details>
-<summary> Stocks and policies for hydrogen growth </summary>
-
-</details>
-
-<details>
-<summary> Innovation and Investment in Hydrogen Technology </summary>
 
 </details>
 
@@ -182,74 +125,58 @@ categories: jekyll update
 
 </details>
 
+<details>
+<summary> Advancements in hydrogen fuel technology </summary>
 
+</details>
 
+<details>
+<summary> Stocks and policies for hydrogen growth </summary>
 
-## Supercluster 000 <a name="supercluster000"></a>
+</details>
 
+<details>
+<summary> Companies and industries driving innovation </summary>
 
-[Cluster 001_001](#cluster001_001#)
+</details>
 
-[Cluster 001_002](#cluster001_002#)
+<details>
+<summary> International energy and geopolitical issues </summary>
 
-[Cluster 001_003](#cluster001_003#)
+</details>
 
+<details>
+<summary> News coverage of industry developments </summary>
 
+</details>
 
+<details>
+<summary> North America and Latin America energy market </summary>
 
+</details>
 
-[Cluster 001_001](#cluster001_001#)
+<details>
+<summary> Articles discuss hydrogen in aviation industry </summary>
 
-[Cluster 001_002](#cluster001_002#)
+</details>
 
-[Cluster 001_003](#cluster001_003#)
+<details>
+<summary> Expansion and partnerships in clean energy </summary>
 
-## Supercluster 002 <a name="supercluster002"></a>
+</details>
 
-[Cluster 002_001](#cluster002_001#)
+<details>
+<summary> Innovation and Investment in Hydrogen Technology </summary>
 
-[Cluster 002_002](#cluster002_002#)
+</details>
 
-[Cluster 002_003](#cluster002_003#)
+<details>
+<summary> Renewable energy investment and innovation </summary>
 
+</details>
 
-## Supercluster 003 <a name="supercluster003"></a>
+<details>
+<summary> Renewable energy and sustainable technologies </summary>
 
-## Supercluster 004 <a name="supercluster004"></a>
+</details>
 
-## Supercluster 005 <a name="supercluster005"></a>
-
-
-## Cluster 001_001 <a name="cluster001_001"></a>
-
-[Article 001_001_001](#article_001_001_001#)
-
-[Article 001_001_002](#article_001_001_002#)
-
-[Article 001_001_003](#article_001_001_003#)
-
-## Cluster 001_002 <a name="cluster001_002"></a>
-
-[Article 001_002_001](#article_001_002_001#)
-
-[Article 001_002_002](#article_001_002_002#)
-
-[Article 001_002_003](#article_001_002_003#)
-
-
-## Cluster 001_003 <a name="cluster001_003"></a>
-
-[Article 001_003_001](#article_001_003_001#)
-
-[Article 001_003_002](#article_001_003_002#)
-
-[Article 001_003_003](#article_001_003_003#)
-
-
-## Cluster 001_004 <a name="cluster001_004"></a>
-
-[Article 001_004_001](#article_001_004_001#)
-
-[Article 001_004_002](#article_001_004_002#)
-
-[Article 001_004_003](#article_001_004_003#)
