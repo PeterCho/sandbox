@@ -9,13 +9,23 @@ categories: jekyll update
 Renewable energy technologies and applications
 </summary>
      <details>
-     <summary>
-     Long-duration energy storage projects using innovative technology
-     </summary>
 
      <summary>
-     Hydrogen power advances in aviation industry
+
+     Long-duration energy storage projects using innovative technology
+
      </summary>
+
+     </details>
+
+     <details>
+
+     <summary>
+
+     Hydrogen power advances in aviation industry
+
+     </summary>
+
      </details>
 
      <details>
