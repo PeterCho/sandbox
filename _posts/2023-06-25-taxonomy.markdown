@@ -10,11 +10,6 @@ categories: jekyll update
 <a href="./images/text_docs/GreenH2/image_000847.png">foobar</a>
 
 
-<a href="file://home/cho/programs/c++/git/projects/src/mains/photosynth/bundler/text_docs/GreenH2/images/image_002579.png">
-PG&E Teams With Energy Vault To Build And Operate The Largest Green Hydrogen Long-Duration Energy Storage System In The US</a>
-
-<a href="https://www.w3schools.com/">foo US</a>
-
 
 <!--
 [PG&E Teams With Energy Vault To Build And Operate The Largest Green Hydrogen Long-Duration Energy Storage System In The US](file:///home/cho/programs/c++/git/projects/src/mains/photosynth/bundler/text_docs/GreenH2/images/image_002579.png) 
