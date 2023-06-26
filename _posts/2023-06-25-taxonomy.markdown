@@ -7,7 +7,7 @@ categories: jekyll update
 
 
 
-<a href="../images/text_docs/GreenH2/image_000847.png">foobar</a>
+<a href="./images/text_docs/GreenH2/image_000847.png">foobar</a>
 
 
 <a href="file://home/cho/programs/c++/git/projects/src/mains/photosynth/bundler/text_docs/GreenH2/images/image_002579.png">
