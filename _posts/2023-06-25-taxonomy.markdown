@@ -5,23 +5,23 @@ date:   2023-06-25 14:08:23 -0400
 categories: jekyll update
 ---
 
-<details><summary>Hello</summary><blockquote>
-  <details><summary>World</summary><blockquote>
+<details><summary>Hello there</summary><blockquote>
+  <details><summary>Big Blue World</summary><blockquote>
     :smile:
   </blockquote></details>
-  <details><summary>Moon</summary><blockquote>
+  <details><summary>Smiling Moon</summary><blockquote>
     This is a test
   </blockquote></details>
-  <details><summary>Sun</summary><blockquote>
+  <details><summary>Yello Sun</summary><blockquote>
     Away we go
   </blockquote></details>
-  <details><summary>Jupiter</summary><blockquote>
+  <details><summary>Jupiter is the biggest planet</summary><blockquote>
     Up to the sky
   </blockquote></details>
 </blockquote></details>
 
-<details><summary>Goodbye</summary><blockquote>
-  <details><summary>Saturn</summary><blockquote>
+<details><summary>Goodbye so long</summary><blockquote>
+  <details><summary>Saturn has rings</summary><blockquote>
     12345
   </blockquote></details>
 </blockquote></details>
