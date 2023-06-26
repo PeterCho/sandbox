@@ -4,7 +4,6 @@ title:  "Taxonomy for 3K Green Hydrogen Articles"
 date:   2023-06-25 14:08:23 -0400
 categories: jekyll update
 ---
-
 <details>
 <summary> Renewable energy technologies and applications </summary>
 
@@ -68,8 +67,6 @@ categories: jekyll update
 <details>
 <summary> News about regulations, research and innovations </summary>
 
-     </details>
-
      <details>
      <summary> Transportation sector to be decarbonized with hydrogen  </summary>
 
@@ -94,8 +91,6 @@ categories: jekyll update
 
 <details>
 <summary> Companies advance electrolysers for hydrogen production </summary>
-
-     </details>
 
      <details>
      <summary> Advancements in Hydrogen Electrolyzers for Wind Energy  </summary>
@@ -122,8 +117,6 @@ categories: jekyll update
 <details>
 <summary> Sustainable innovation in chemical and cement industries </summary>
 
-     </details>
-
      <details>
      <summary> Efforts to reduce carbon emissions in cement production  </summary>
 
@@ -148,8 +141,6 @@ categories: jekyll update
 
 <details>
 <summary> Fortescue and Baker Hughes lead collaborations </summary>
-
-     </details>
 
      <details>
      <summary> Fortescue's plans for hydrogen projects and growth  </summary>
@@ -190,8 +181,6 @@ categories: jekyll update
 
 <details>
 <summary> India's growing investment into clean energy </summary>
-
-     </details>
 
      <details>
      <summary> India's push towards sustainable energy alternatives  </summary>
@@ -398,8 +387,6 @@ categories: jekyll update
 <details>
 <summary> Innovation and Investment in Hydrogen </summary>
 
-     </details>
-
      <details>
      <summary> Elcogen partners with Korean shipbuilding & ENERTRAG project  </summary>
 
@@ -455,8 +442,6 @@ categories: jekyll update
 <details>
 <summary> Renewable energy sources and hydrogen production </summary>
 
-     </details>
-
      <details>
      <summary> Expansion of Bloom Energy and H2PLT in Europe  </summary>
 
@@ -491,8 +476,6 @@ categories: jekyll update
 
 <details>
 <summary> Hydrogen usage and technology development </summary>
-
-     </details>
 
      <details>
      <summary> Hydrogen innovation in South Australia showcased  </summary>
@@ -549,8 +532,6 @@ categories: jekyll update
 <details>
 <summary> Companies and individuals make green progress </summary>
 
-     </details>
-
      <details>
      <summary> Investments and awards for innovative electrolysis solutions  </summary>
 
@@ -591,8 +572,6 @@ categories: jekyll update
 <details>
 <summary> Energy transition and sustainability efforts </summary>
 
-     </details>
-
      <details>
      <summary> Advancements and calls for change in production  </summary>
 
@@ -612,8 +591,6 @@ categories: jekyll update
 
 <details>
 <summary> Hydrogen pipeline projects and investments </summary>
-
-     </details>
 
      <details>
      <summary> Portugal's investment and plans for hydrogen expansion  </summary>
@@ -670,8 +647,6 @@ categories: jekyll update
 <details>
 <summary> Green hydrogen investment and development </summary>
 
-     </details>
-
      <details>
      <summary> Green energy backup solutions for datacenters  </summary>
 
@@ -711,8 +686,6 @@ categories: jekyll update
 
 <details>
 <summary> Renewable energy projects and partnerships </summary>
-
-     </details>
 
      <details>
      <summary> Renewable energy projects in Romania and Croatia  </summary>
@@ -778,8 +751,6 @@ categories: jekyll update
 
 <details>
 <summary> Global companies invest in hydrogen technology </summary>
-
-     </details>
 
      <details>
      <summary> LNG and gas crisis dominate energy news  </summary>
@@ -851,8 +822,6 @@ categories: jekyll update
 <details>
 <summary> Collaboration for clean energy development </summary>
 
-     </details>
-
      <details>
      <summary> Development of ammonia-based hydrogen storage systems  </summary>
 
@@ -888,8 +857,6 @@ categories: jekyll update
 <details>
 <summary> Companies and individuals in the industry </summary>
 
-     </details>
-
      <details>
      <summary> Appointments made for companies involved in hydrogen  </summary>
 
@@ -914,8 +881,6 @@ categories: jekyll update
 
 <details>
 <summary> International Companies Developing Ammonia Plants </summary>
-
-     </details>
 
      <details>
      <summary> Partnerships and Projects for Floating Clean Energy  </summary>
@@ -967,8 +932,6 @@ categories: jekyll update
 <details>
 <summary> Development and Advances of Hydrogen Industry </summary>
 
-     </details>
-
      <details>
      <summary> Exploring the Use of Alternative Fuel Sources  </summary>
 
@@ -998,8 +961,6 @@ categories: jekyll update
 
 <details>
 <summary> Hydrogen as driver for technology growth </summary>
-
-     </details>
 
      <details>
      <summary> Innovations in eco-friendly maritime transportation  </summary>
@@ -1045,8 +1006,6 @@ categories: jekyll update
 
 <details>
 <summary> Renewable energy projects & partnerships </summary>
-
-     </details>
 
      <details>
      <summary> Agreement signed to export hydrogen to Europe  </summary>
@@ -1138,8 +1097,6 @@ categories: jekyll update
 <details>
 <summary> EU and US counter green subsidies </summary>
 
-     </details>
-
      <details>
      <summary> Investment trends in climate tech for Europe  </summary>
 
@@ -1179,8 +1136,6 @@ categories: jekyll update
 
 <details>
 <summary> Renewable energy projects in Africa </summary>
-
-     </details>
 
      <details>
      <summary> John Cockerill invests in Morocco's electrolyzer production  </summary>
@@ -1247,8 +1202,6 @@ categories: jekyll update
 <details>
 <summary> Seawater used for hydrogen production </summary>
 
-     </details>
-
      <details>
      <summary> Innovative methods for hydrogen production  </summary>
 
@@ -1293,8 +1246,6 @@ categories: jekyll update
 
 <details>
 <summary> Advancements in hydrogen fuel technology </summary>
-
-     </details>
 
      <details>
      <summary> Partnerships and ambitions for UK hydrogen market  </summary>
@@ -1466,8 +1417,6 @@ categories: jekyll update
 <details>
 <summary> Stocks and policies for hydrogen growth </summary>
 
-     </details>
-
      <details>
      <summary> Hyzon Motors' Delayed Disclosure Hearings  </summary>
 
@@ -1502,8 +1451,6 @@ categories: jekyll update
 
 <details>
 <summary> Companies and industries driving innovation </summary>
-
-     </details>
 
      <details>
      <summary> Nel ASA expands production for electrolysers  </summary>
@@ -1600,8 +1547,6 @@ categories: jekyll update
 <details>
 <summary> International energy and geopolitical issues </summary>
 
-     </details>
-
      <details>
      <summary> Geopolitical and production concerns  </summary>
 
@@ -1631,8 +1576,6 @@ categories: jekyll update
 
 <details>
 <summary> News coverage of industry developments </summary>
-
-     </details>
 
      <details>
      <summary> Wind power fuel generation in Texas and Wyoming  </summary>
@@ -1694,8 +1637,6 @@ categories: jekyll update
 <details>
 <summary> North America and Latin America energy market </summary>
 
-     </details>
-
      <details>
      <summary> North America's energy transition acceleration and challenges  </summary>
 
@@ -1720,8 +1661,6 @@ categories: jekyll update
 
 <details>
 <summary> Articles discuss hydrogen in aviation industry </summary>
-
-     </details>
 
      <details>
      <summary> Alternatives to traditional air travel fuel  </summary>
@@ -1753,8 +1692,6 @@ categories: jekyll update
 <details>
 <summary> Expansion and partnerships in clean energy </summary>
 
-     </details>
-
      <details>
      <summary> Capstone Green Energy's Follow-On Orders and Presentations  </summary>
 
@@ -1779,8 +1716,6 @@ categories: jekyll update
 
 <details>
 <summary> Innovation and Investment in Hydrogen Technology </summary>
-
-     </details>
 
      <details>
      <summary> Spain and Portugal's leadership in hydrogen innovation  </summary>
@@ -1967,8 +1902,6 @@ categories: jekyll update
 <details>
 <summary> Renewable energy investment and innovation </summary>
 
-     </details>
-
      <details>
      <summary> Renewable energy sector sees significant growth  </summary>
 
@@ -2108,8 +2041,6 @@ categories: jekyll update
 
 <details>
 <summary> Renewable energy and sustainable technologies </summary>
-
-     </details>
 
      <details>
      <summary> Market analysis and growth forecast for hydrogen  </summary>
