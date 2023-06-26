@@ -7,7 +7,7 @@ categories: jekyll update
 
 <p style="font-size:100px; background-color:rgb(0, 160, 0)"><h1> TAXONOMY FOR 3.4K GREEN HYDROGEN ARTICLES </h1></p>
 
-<details><summary><h1> Renewable energy technologies and applications </h1></summary><blockquote>
+<details><summary><h1> 1.  Renewable energy technologies and applications </h1></summary><blockquote>
      <details><summary><h2>Long-duration energy storage projects using innovative technology</h2></summary><blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000043.png">PG&E Teams With Energy Vault To Build And Operate The Largest Green Hydrogen Long-Duration Energy Storage System In The US</a></blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000044.png">PG&E, Energy Vault Plan Largest US Utility-scale Battery, Green Hydrogen Long Duration Storage Project</a></blockquote>
@@ -152,7 +152,7 @@ categories: jekyll update
           <blockquote><a href="./images/text_docs/GreenH2/image_003423.png">Global Electric Vehicles Market Report 2023: Localizing The EV Supply Chain Remains Crucial For Sustainable Growth Of EVs</a></blockquote>
      </blockquote></details>
 </blockquote></details>
-<details><summary><h1> News about regulations, research and innovations </h1></summary><blockquote>
+<details><summary><h1> 2.  News about regulations, research and innovations </h1></summary><blockquote>
      <details><summary><h2>Transportation sector to be decarbonized with hydrogen</h2></summary><blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000148.png">Hydrogen Key To New US Blueprint For Decarbonising Transport</a></blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000634.png">Federal Plan Takes Aim At Transportation Emissions</a></blockquote>
