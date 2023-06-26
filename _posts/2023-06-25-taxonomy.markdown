@@ -25,3 +25,49 @@ categories: jekyll update
           12345
      </blockquote></details>
 </blockquote></details>
+
+<details><summary>Renewable energy technologies and applications</summary><blockquote>
+     <details><summary>Long-duration energy storage projects using innovative technology</summary><blockquote>
+          This is a placeholder
+     </blockquote></details>
+
+     <details><summary>Hydrogen power advances in aviation industry</summary><blockquote>
+          This is a placeholder
+     </blockquote></details>
+
+     <details><summary>Toyota's electric vehicle plans and challenges</summary><blockquote>
+          This is a placeholder
+     </blockquote></details>
+
+     <details><summary>Electric vehicles, funding, and government incentives</summary><blockquote>
+          This is a placeholder
+     </blockquote></details>
+
+     <details><summary>News on Acquisition, Chassis, Aviation, IP, and Market</summary><blockquote>
+          This is a placeholder
+     </blockquote></details>
+
+     <details><summary>Electric truck manufacturer Tevva expands with hydrogen</summary><blockquote>
+          This is a placeholder
+     </blockquote></details>
+
+     <details><summary>Advances in fuel cell technology</summary><blockquote>
+          This is a placeholder
+     </blockquote></details>
+
+     <details><summary>Renewable energy storage technologies and markets</summary><blockquote>
+          This is a placeholder
+     </blockquote></details>
+
+     <details><summary>Economic impacts of US IR Act in Europe</summary><blockquote>
+          This is a placeholder
+     </blockquote></details>
+
+     <details><summary>BMW develops vehicles powered by alternative fuel</summary><blockquote>
+          This is a placeholder
+     </blockquote></details>
+
+     <details><summary>Electric Vehicle Market Trends and Forecasts</summary><blockquote>
+          This is a placeholder
+     </blockquote></details>
+</blockquote></details>
