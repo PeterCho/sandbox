@@ -7,7 +7,7 @@ categories: jekyll update
 
 <details><summary><h1> Renewable energy technologies and applications </h1></summary><blockquote>
      <details><summary><h2>Long-duration energy storage projects using innovative technology</h2></summary><blockquote>
-          <blockquote>[PG&E Teams With Energy Vault To Build And Operate The Largest Green Hydrogen Long-Duration Energy Storage System In The US](file:///home/cho/programs/c++/git/projects/src/mains/photosynth/bundler/text_docs/GreenH2/images/image_002579.png)</blockquote>
+          <blockquote> [PG&E Teams With Energy Vault To Build And Operate The Largest Green Hydrogen Long-Duration Energy Storage System In The US](file:///home/cho/programs/c++/git/projects/src/mains/photosynth/bundler/text_docs/GreenH2/images/image_002579.png) </blockquote>
           <blockquote>PG&E, Energy Vault Plan Largest US Utility-scale Battery, Green Hydrogen Long Duration Storage Project</blockquote>
           <blockquote>Battery Plus Green Hydrogen Storage System Could Power 2,000 Electric Customers In California, US</blockquote>
           <blockquote>PG&E, Energy Vault To Build Green Hydrogen Long-duration Storage Project</blockquote>
