@@ -6,22 +6,22 @@ categories: jekyll update
 ---
 
 <details><summary>Hello there</summary><blockquote>
-  <details><summary>Big Blue World</summary><blockquote>
-    :smile:
-  </blockquote></details>
-  <details><summary>Smiling Moon</summary><blockquote>
-    This is a test
-  </blockquote></details>
-  <details><summary>Yello Sun</summary><blockquote>
-    Away we go
-  </blockquote></details>
-  <details><summary>Jupiter is the biggest planet</summary><blockquote>
-    Up to the sky
-  </blockquote></details>
+     <details><summary>Big Blue World</summary><blockquote>
+          :smile:
+     </blockquote></details>
+     <details><summary>Smiling Moon</summary><blockquote>
+          This is a test
+     </blockquote></details>
+     <details><summary>Yello Sun</summary><blockquote>
+          Away we go
+     </blockquote></details>
+     <details><summary>Jupiter is the biggest planet</summary><blockquote>
+          Up to the sky
+     </blockquote></details>
 </blockquote></details>
 
 <details><summary>Goodbye so long</summary><blockquote>
-  <details><summary>Saturn has rings</summary><blockquote>
-    12345
-  </blockquote></details>
+     <details><summary>Saturn has rings</summary><blockquote>
+          12345
+     </blockquote></details>
 </blockquote></details>
