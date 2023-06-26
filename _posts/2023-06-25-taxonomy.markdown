@@ -12,9 +12,7 @@ Renewable energy technologies and applications
      <summary>
      Long-duration energy storage projects using innovative technology
      </summary>
-     </details>
 
-     <details>
      <summary>
      Hydrogen power advances in aviation industry
      </summary>
