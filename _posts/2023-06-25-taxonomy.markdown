@@ -12,4 +12,11 @@ categories: jekyll update
   <details><summary>Moon</summary><blockquote>
     This is a test
   </blockquote></details>
+  <details><summary>Sun</summary><blockquote>
+    Away we go
+  </blockquote></details>
+  <details><summary>Jupiter</summary><blockquote>
+    Up to the sky
+  </blockquote></details>
+
 </blockquote></details>
