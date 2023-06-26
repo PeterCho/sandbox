@@ -5,7 +5,7 @@ date:   2023-06-25 14:08:23 -0400
 categories: jekyll update
 ---
 
-<h1 style="font-size:100px; background-color:rgb(0, 160, 0)"> TAXONOMY FOR GREEN HYDROGEN ARTICLES </p></h1>
+<h1 style="font-size:100px; background-color:rgb(0, 160, 0)"> TAXONOMY FOR GREEN HYDROGEN ARTICLES </h1>
 
 <details><summary><h1> Renewable energy technologies and applications </h1></summary><blockquote>
      <details><summary><h2>Long-duration energy storage projects using innovative technology</h2></summary><blockquote>
