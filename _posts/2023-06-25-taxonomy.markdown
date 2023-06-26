@@ -5,8 +5,8 @@ date:   2023-06-25 14:08:23 -0400
 categories: jekyll update
 ---
 
-<details><summary>Renewable energy technologies and applications</summary><blockquote>
-     <details><summary>Long-duration energy storage projects using innovative technology</summary><blockquote>
+<details><summary># Renewable energy technologies and applications</summary><blockquote>
+     <details><summary>## Long-duration energy storage projects using innovative technology</summary><blockquote>
           <blockquote>PG&E Teams With Energy Vault To Build And Operate The Largest Green Hydrogen Long-Duration Energy Storage System In The US</blockquote>
           <blockquote>PG&E, Energy Vault Plan Largest US Utility-scale Battery, Green Hydrogen Long Duration Storage Project</blockquote>
           <blockquote>Battery Plus Green Hydrogen Storage System Could Power 2,000 Electric Customers In California, US</blockquote>
@@ -19,7 +19,7 @@ categories: jekyll update
           <blockquote>Xcel Plans To Install Form Energy' S Multiday Storage At Retired Coal Plant Sites, Eyes Green Hydrogen Pilots</blockquote>
           <blockquote>The Urgently Needed 'no Regrets' Approach To Big Batteries, Green Hydrogen And Grid Reliability</blockquote>
      </blockquote></details>
-     <details><summary>Hydrogen power advances in aviation industry</summary><blockquote>
+     <details><summary>## Hydrogen power advances in aviation industry</summary><blockquote>
           <blockquote>How Hydrogen Could Be The Next Fuel Available At Your Airport</blockquote>
           <blockquote>Hydrogen Aviation Plans Zero-emission Journey</blockquote>
           <blockquote>Could Hydrogen Fuel-cell Tech Replace Aircraft Jet Engines?</blockquote>
@@ -43,7 +43,7 @@ categories: jekyll update
           <blockquote>The Biggest Hydrogen-Electric Aircraft Completed A Flight From The UK</blockquote>
           <blockquote>ZeroAvia And Birmingham Airport Enter Partnership For Hydrogen-powered Flights</blockquote>
      </blockquote></details>
-     <details><summary>Toyota's electric vehicle plans and challenges</summary><blockquote>
+     <details><summary>## Toyota's electric vehicle plans and challenges</summary><blockquote>
           <blockquote>Toyota Is Investing $35 Billion Into EVs. But Some Say It May Be Too Late.</blockquote>
           <blockquote>Don' T Replace Your Car, Replace Its Engine, Toyota Says, Pushing Sustainability Shift</blockquote>
           <blockquote>How The World' S Most Valuable Carmaker Fell Perilously Behind On Electric Vehicles</blockquote>
@@ -52,7 +52,7 @@ categories: jekyll update
           <blockquote>'I'm In Love With My Car': The Road Ahead In The Green Transition</blockquote>
           <blockquote>Toyota BZ4X Price Cut 15% In China; It's Far Cheaper There Than Here</blockquote>
      </blockquote></details>
-     <details><summary>Electric vehicles, funding, and government incentives</summary><blockquote>
+     <details><summary>## Electric vehicles, funding, and government incentives</summary><blockquote>
           <blockquote>EV Tax Credit FAQ: What To Know About How They're Changing For 2023</blockquote>
           <blockquote>Tesla Competitor Lucid Raises $1.5 Billion, Majority From Saudi Sovereign Wealth Fund</blockquote>
           <blockquote>A Fusion Power Milestone, A South Carolina Battery Plant And Fuel-Cell Powered Semis</blockquote>
@@ -150,7 +150,7 @@ categories: jekyll update
           <blockquote>Global Electric Vehicles Market Report 2023: Localizing The EV Supply Chain Remains Crucial For Sustainable Growth Of EVs</blockquote>
      </blockquote></details>
 </blockquote></details>
-<details><summary>News about regulations, research and innovations</summary><blockquote>
+<details><summary># News about regulations, research and innovations</summary><blockquote>
      <details><summary>Transportation sector to be decarbonized with hydrogen</summary><blockquote>
           <blockquote>Hydrogen Key To New US Blueprint For Decarbonising Transport</blockquote>
           <blockquote>Federal Plan Takes Aim At Transportation Emissions</blockquote>
