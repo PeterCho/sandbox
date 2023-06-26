@@ -4,2584 +4,3436 @@ title:  "Taxonomy for 3K Green Hydrogen Articles"
 date:   2023-06-25 14:08:23 -0400
 categories: jekyll update
 ---
+
+
 <details>
 <summary>
-Renewable energy technologies and applications
+
+#### Renewable energy technologies and applications
 </summary>
-     <details>
-
-     <summary>
-
-     Long-duration energy storage projects using innovative technology
-
-     </summary>
-
-     </details>
 
      <details>
-
      <summary>
 
-     Hydrogen power advances in aviation industry
-
+     #### Long-duration energy storage projects using innovative technology
      </summary>
 
      </details>
 
      <details>
      <summary>
-     Toyota's electric vehicle plans and challenges
+
+     #### Hydrogen power advances in aviation industry
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Electric vehicles, funding, and government incentives
+
+     #### Toyota's electric vehicle plans and challenges
      </summary>
+
      </details>
 
      <details>
      <summary>
-     News on Acquisition, Chassis, Aviation, IP, and Market
+
+     #### Electric vehicles, funding, and government incentives
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Electric truck manufacturer Tevva expands with hydrogen
+
+     #### News on Acquisition, Chassis, Aviation, IP, and Market
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Advances in fuel cell technology
+
+     #### Electric truck manufacturer Tevva expands with hydrogen
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Renewable energy storage technologies and markets
+
+     #### Advances in fuel cell technology
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Economic impacts of US IR Act in Europe
+
+     #### Renewable energy storage technologies and markets
      </summary>
+
      </details>
 
      <details>
      <summary>
-     BMW develops vehicles powered by alternative fuel
+
+     #### Economic impacts of US IR Act in Europe
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Electric Vehicle Market Trends and Forecasts
+
+     #### BMW develops vehicles powered by alternative fuel
      </summary>
+
+     </details>
+
+     <details>
+     <summary>
+
+     #### Electric Vehicle Market Trends and Forecasts
+     </summary>
+
      </details>
 
 </details>
 
 <details>
 <summary>
-News about regulations, research and innovations
+
+#### News about regulations, research and innovations
 </summary>
+
      <details>
      <summary>
-     Transportation sector to be decarbonized with hydrogen
+
+     #### Transportation sector to be decarbonized with hydrogen
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Decarbonization with hydrogen
+
+     #### Decarbonization with hydrogen
      </summary>
+
      </details>
 
      <details>
      <summary>
-     EU policies and fossil fuel industry interference
+
+     #### EU policies and fossil fuel industry interference
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Renewable innovations advance emergency power with hydrogen
+
+     #### Renewable innovations advance emergency power with hydrogen
      </summary>
+
      </details>
 
 </details>
 
 <details>
 <summary>
-Companies advance electrolysers for hydrogen production
+
+#### Companies advance electrolysers for hydrogen production
 </summary>
+
      <details>
      <summary>
-     Advancements in Hydrogen Electrolyzers for Wind Energy
+
+     #### Advancements in Hydrogen Electrolyzers for Wind Energy
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Enapter expands production and training in Asia
+
+     #### Enapter expands production and training in Asia
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Expanding electrolysis capacity for low-carbon energy
+
+     #### Expanding electrolysis capacity for low-carbon energy
      </summary>
+
      </details>
 
      <details>
      <summary>
-     LONGi launches new electrolysis equipment line
+
+     #### LONGi launches new electrolysis equipment line
      </summary>
+
      </details>
 
 </details>
 
 <details>
 <summary>
-Sustainable innovation in chemical and cement industries
+
+#### Sustainable innovation in chemical and cement industries
 </summary>
+
      <details>
      <summary>
-     Efforts to reduce carbon emissions in cement production
+
+     #### Efforts to reduce carbon emissions in cement production
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Sustainability in the manufacture of cleaning products
+
+     #### Sustainability in the manufacture of cleaning products
      </summary>
+
      </details>
 
      <details>
      <summary>
-     De Nora Industries expands renewable energy capacity
+
+     #### De Nora Industries expands renewable energy capacity
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Renewable energy projects in Tunisia and Belgium
+
+     #### Renewable energy projects in Tunisia and Belgium
      </summary>
+
      </details>
 
 </details>
 
 <details>
 <summary>
-Fortescue and Baker Hughes lead collaborations
+
+#### Fortescue and Baker Hughes lead collaborations
 </summary>
+
      <details>
      <summary>
-     Fortescue's plans for hydrogen projects and growth
+
+     #### Fortescue's plans for hydrogen projects and growth
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Environmental concerns over hydrogen power in Wales
+
+     #### Environmental concerns over hydrogen power in Wales
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Collaborative projects to develop hydrogen infrastructure
+
+     #### Collaborative projects to develop hydrogen infrastructure
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Billionaires compete to export renewable energy
+
+     #### Billionaires compete to export renewable energy
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Renewable energy projects and emissions reduction initiatives
+
+     #### Renewable energy projects and emissions reduction initiatives
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Fortescue explores hydrogen opportunities in Southern Africa
+
+     #### Fortescue explores hydrogen opportunities in Southern Africa
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Collaborations and Expansion in Spain and Malaysia
+
+     #### Collaborations and Expansion in Spain and Malaysia
      </summary>
+
      </details>
 
 </details>
 
 <details>
 <summary>
-India's growing investment into clean energy
+
+#### India's growing investment into clean energy
 </summary>
+
      <details>
      <summary>
-     India's push towards sustainable energy alternatives
+
+     #### India's push towards sustainable energy alternatives
      </summary>
+
      </details>
 
      <details>
      <summary>
-     India's major investment in renewable energy plan
+
+     #### India's major investment in renewable energy plan
      </summary>
+
      </details>
 
      <details>
      <summary>
-     India's energy security strategy and diversification efforts
+
+     #### India's energy security strategy and diversification efforts
      </summary>
+
      </details>
 
      <details>
      <summary>
-     India and Panama explore collaboration for hydrogen
+
+     #### India and Panama explore collaboration for hydrogen
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Investments and policies in green energy space
+
+     #### Investments and policies in green energy space
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Stock market, GDP, and power in India
+
+     #### Stock market, GDP, and power in India
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Renewable energy investment opportunities in India
+
+     #### Renewable energy investment opportunities in India
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Developments and investments in clean energy technology
+
+     #### Developments and investments in clean energy technology
      </summary>
+
      </details>
 
      <details>
      <summary>
-     International focus on development and exportation
+
+     #### International focus on development and exportation
      </summary>
+
      </details>
 
      <details>
      <summary>
-     India's Investment in Sustainable Energy Future
+
+     #### India's Investment in Sustainable Energy Future
      </summary>
+
      </details>
 
      <details>
      <summary>
-     India's challenges and progress towards green hydrogen
+
+     #### India's challenges and progress towards green hydrogen
      </summary>
+
      </details>
 
      <details>
      <summary>
-     India's national mission to promote hydrogen energy
+
+     #### India's national mission to promote hydrogen energy
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Sustainable transport fuel alternatives garner attention
+
+     #### Sustainable transport fuel alternatives garner attention
      </summary>
+
      </details>
 
      <details>
      <summary>
-     India's clean energy transition and net-zero targets
+
+     #### India's clean energy transition and net-zero targets
      </summary>
+
      </details>
 
      <details>
      <summary>
-     India's move towards sustainable fuel
+
+     #### India's move towards sustainable fuel
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Trafigura and Indian government plans for expansion
+
+     #### Trafigura and Indian government plans for expansion
      </summary>
+
      </details>
 
      <details>
      <summary>
-     India's energy diversification and security strategy
+
+     #### India's energy diversification and security strategy
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Adani Group announces spin-off of hydrogen businesses
+
+     #### Adani Group announces spin-off of hydrogen businesses
      </summary>
+
      </details>
 
      <details>
      <summary>
-     India's Plans to Boost Hydrogen Production
+
+     #### India's Plans to Boost Hydrogen Production
      </summary>
+
      </details>
 
      <details>
      <summary>
-     India plans to categorize clean technologies
+
+     #### India plans to categorize clean technologies
      </summary>
+
      </details>
 
      <details>
      <summary>
-     India's budget and policies prioritize renewable energy
+
+     #### India's budget and policies prioritize renewable energy
      </summary>
+
      </details>
 
      <details>
      <summary>
-     India's ambitious plan to increase hydrogen production
+
+     #### India's ambitious plan to increase hydrogen production
      </summary>
+
      </details>
 
      <details>
      <summary>
-     News about renewable energy projects and investments
+
+     #### News about renewable energy projects and investments
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Kerala's Plan to Promote Alternative Fuel
+
+     #### Kerala's Plan to Promote Alternative Fuel
      </summary>
+
      </details>
 
      <details>
      <summary>
-     India explores renewable energy storage and exports
+
+     #### India explores renewable energy storage and exports
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Adani Group faces setbacks in green projects
+
+     #### Adani Group faces setbacks in green projects
      </summary>
+
      </details>
 
      <details>
      <summary>
-     NTPC invests in green energy technology
+
+     #### NTPC invests in green energy technology
      </summary>
+
      </details>
 
      <details>
      <summary>
-     India and Japan to boost green energy cooperation
+
+     #### India and Japan to boost green energy cooperation
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Orders and Growth for Engineers India and KEC
+
+     #### Orders and Growth for Engineers India and KEC
      </summary>
+
      </details>
 
      <details>
      <summary>
-     European Investment Bank supports hydrogen development worldwide
+
+     #### European Investment Bank supports hydrogen development worldwide
      </summary>
+
      </details>
 
      <details>
      <summary>
-     ReNew Power looks to expand internationally
+
+     #### ReNew Power looks to expand internationally
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Jefferies weighs in on RIL stock surge
+
+     #### Jefferies weighs in on RIL stock surge
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Investment and development in Indian green hydrogen facilities
+
+     #### Investment and development in Indian green hydrogen facilities
      </summary>
+
      </details>
 
      <details>
      <summary>
-     India's economic rise and potential
+
+     #### India's economic rise and potential
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Global potential and partnerships for hydrogen infrastructure
+
+     #### Global potential and partnerships for hydrogen infrastructure
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Indian Oil plans net-zero emissions via hydrogen
+
+     #### Indian Oil plans net-zero emissions via hydrogen
      </summary>
+
      </details>
 
      <details>
      <summary>
-     India and Fraunhofer ISE collaborate for hydrogen projects
+
+     #### India and Fraunhofer ISE collaborate for hydrogen projects
      </summary>
+
      </details>
 
      <details>
      <summary>
-     India explores investment and adoption of hydrogen
+
+     #### India explores investment and adoption of hydrogen
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Renewable energy solutions and partnerships in Qatar
+
+     #### Renewable energy solutions and partnerships in Qatar
      </summary>
+
      </details>
 
      <details>
      <summary>
-     India's renewable energy sector expands rapidly
+
+     #### India's renewable energy sector expands rapidly
      </summary>
+
      </details>
 
 </details>
 
 <details>
 <summary>
-Innovation and Investment in Hydrogen
+
+#### Innovation and Investment in Hydrogen
 </summary>
+
      <details>
      <summary>
-     Elcogen partners with Korean shipbuilding & ENERTRAG project
+
+     #### Elcogen partners with Korean shipbuilding & ENERTRAG project
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Renewable energy as fuel for transportation
+
+     #### Renewable energy as fuel for transportation
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Linde invests in hydrogen production in California and Texas
+
+     #### Linde invests in hydrogen production in California and Texas
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Fluitron roll-out hydrogen processing and dispensing products
+
+     #### Fluitron roll-out hydrogen processing and dispensing products
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Flame incident on liquid hydrogen carrier ship
+
+     #### Flame incident on liquid hydrogen carrier ship
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Sunfire's electrolyzer technology gains industrial partnerships and contracts
+
+     #### Sunfire's electrolyzer technology gains industrial partnerships and contracts
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Renewable-powered data centers and energy projects
+
+     #### Renewable-powered data centers and energy projects
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Technip Energies awarded contracts for clean energy solutions
+
+     #### Technip Energies awarded contracts for clean energy solutions
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Partnerships and Innovation for Fuel Cell Production
+
+     #### Partnerships and Innovation for Fuel Cell Production
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Renewable energy projects and carbon capture technology
+
+     #### Renewable energy projects and carbon capture technology
      </summary>
+
      </details>
 
 </details>
 
 <details>
 <summary>
-Renewable energy sources and hydrogen production
+
+#### Renewable energy sources and hydrogen production
 </summary>
+
      <details>
      <summary>
-     Expansion of Bloom Energy and H2PLT in Europe
+
+     #### Expansion of Bloom Energy and H2PLT in Europe
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Chile's pursuit of renewable energy
+
+     #### Chile's pursuit of renewable energy
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Ballard fuel cells orders for Dutch wind project
+
+     #### Ballard fuel cells orders for Dutch wind project
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Expansion of green energy sources in Northern Europe
+
+     #### Expansion of green energy sources in Northern Europe
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Exploring potential use of wind power
+
+     #### Exploring potential use of wind power
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Renewable energy sources powering hydrogen projects
+
+     #### Renewable energy sources powering hydrogen projects
      </summary>
+
      </details>
 
 </details>
 
 <details>
 <summary>
-Hydrogen usage and technology development
+
+#### Hydrogen usage and technology development
 </summary>
+
      <details>
      <summary>
-     Hydrogen innovation in South Australia showcased
+
+     #### Hydrogen innovation in South Australia showcased
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Development of a new renewable energy hub
+
+     #### Development of a new renewable energy hub
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Research funding and pilot projects in Europe
+
+     #### Research funding and pilot projects in Europe
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Emphasizing Clean Energy Initiatives for the Future
+
+     #### Emphasizing Clean Energy Initiatives for the Future
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Conferences and symposium in APAC nations
+
+     #### Conferences and symposium in APAC nations
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Regions seek leadership in clean energy export
+
+     #### Regions seek leadership in clean energy export
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Research and projects advancing hydrogen technology
+
+     #### Research and projects advancing hydrogen technology
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Replacing fossil fuels with alternative energy source
+
+     #### Replacing fossil fuels with alternative energy source
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Installation and delivery companies involved in Scotland
+
+     #### Installation and delivery companies involved in Scotland
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Development of hydrogen production facilities in Northern Ireland
+
+     #### Development of hydrogen production facilities in Northern Ireland
      </summary>
+
      </details>
 
 </details>
 
 <details>
 <summary>
-Companies and individuals make green progress
+
+#### Companies and individuals make green progress
 </summary>
+
      <details>
      <summary>
-     Investments and awards for innovative electrolysis solutions
+
+     #### Investments and awards for innovative electrolysis solutions
      </summary>
+
      </details>
 
      <details>
      <summary>
-     NASDAQ-bound company producing electrolysis systems
+
+     #### NASDAQ-bound company producing electrolysis systems
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Developments in hydrogen generator technology and R&D
+
+     #### Developments in hydrogen generator technology and R&D
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Appointments and Financing Activities for Hydrogen Companies
+
+     #### Appointments and Financing Activities for Hydrogen Companies
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Altima announces Joint Venture for Hydrogen Technology
+
+     #### Altima announces Joint Venture for Hydrogen Technology
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Research and development of hydrogen production process
+
+     #### Research and development of hydrogen production process
      </summary>
+
      </details>
 
      <details>
      <summary>
-     New CEO appointments in hydrogen industry
+
+     #### New CEO appointments in hydrogen industry
      </summary>
+
      </details>
 
 </details>
 
 <details>
 <summary>
-Energy transition and sustainability efforts
+
+#### Energy transition and sustainability efforts
 </summary>
+
      <details>
      <summary>
-     Advancements and calls for change in production
+
+     #### Advancements and calls for change in production
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Canada's transition to sustainable energy economy
+
+     #### Canada's transition to sustainable energy economy
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Energy transition efforts in Tunisia and Africa
+
+     #### Energy transition efforts in Tunisia and Africa
      </summary>
+
      </details>
 
 </details>
 
 <details>
 <summary>
-Hydrogen pipeline projects and investments
+
+#### Hydrogen pipeline projects and investments
 </summary>
+
      <details>
      <summary>
-     Portugal's investment and plans for hydrogen expansion
+
+     #### Portugal's investment and plans for hydrogen expansion
      </summary>
+
      </details>
 
      <details>
      <summary>
-     News on Nordic and Dutch hydrogen exports
+
+     #### News on Nordic and Dutch hydrogen exports
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Green energy initiatives in Northern Europe
+
+     #### Green energy initiatives in Northern Europe
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Pipeline plans for offshore wind-generated fuel
+
+     #### Pipeline plans for offshore wind-generated fuel
      </summary>
+
      </details>
 
      <details>
      <summary>
-     European countries plan cross-border hydrogen pipeline network
+
+     #### European countries plan cross-border hydrogen pipeline network
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Partnerships, contracts and orders advance hydrogen production
+
+     #### Partnerships, contracts and orders advance hydrogen production
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Germany and Norway collaborate on hydrogen production
+
+     #### Germany and Norway collaborate on hydrogen production
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Italy seeks EU funds for gas grid
+
+     #### Italy seeks EU funds for gas grid
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Ukraine's potential for exporting carbon-free energy
+
+     #### Ukraine's potential for exporting carbon-free energy
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Germany's ambitious plans for hydrogen infrastructure expansion
+
+     #### Germany's ambitious plans for hydrogen infrastructure expansion
      </summary>
+
      </details>
 
 </details>
 
 <details>
 <summary>
-Green hydrogen investment and development
+
+#### Green hydrogen investment and development
 </summary>
+
      <details>
      <summary>
-     Green energy backup solutions for datacenters
+
+     #### Green energy backup solutions for datacenters
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Companies collaborate on waste-to-energy aviation supply
+
+     #### Companies collaborate on waste-to-energy aviation supply
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Investment and trial results for hydrogen power
+
+     #### Investment and trial results for hydrogen power
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Investments and production of green fuel
+
+     #### Investments and production of green fuel
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Development and investment in Nordic hydrogen infrastructure
+
+     #### Development and investment in Nordic hydrogen infrastructure
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Gevo partners with Zero6, Cummins for production facility
+
+     #### Gevo partners with Zero6, Cummins for production facility
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Partnership to Develop Hydrogen Projects in NA, Europe
+
+     #### Partnership to Develop Hydrogen Projects in NA, Europe
      </summary>
+
      </details>
 
 </details>
 
 <details>
 <summary>
-Renewable energy projects and partnerships
+
+#### Renewable energy projects and partnerships
 </summary>
+
      <details>
      <summary>
-     Renewable energy projects in Romania and Croatia
+
+     #### Renewable energy projects in Romania and Croatia
      </summary>
+
      </details>
 
      <details>
      <summary>
-     ATOME Energy and Cavendish Joint Venture
+
+     #### ATOME Energy and Cavendish Joint Venture
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Startups secure funding to scale hydrogen production
+
+     #### Startups secure funding to scale hydrogen production
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Partnership agreements for Nordic hydrogen projects
+
+     #### Partnership agreements for Nordic hydrogen projects
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Massive projects and initiatives for clean energy
+
+     #### Massive projects and initiatives for clean energy
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Partnership and Investment in Hydrogen by Australia and Germany
+
+     #### Partnership and Investment in Hydrogen by Australia and Germany
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Shipping green energy carrier via tankers in Australia
+
+     #### Shipping green energy carrier via tankers in Australia
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Issues with supply and use of hydrogen
+
+     #### Issues with supply and use of hydrogen
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Australia leads the world with hydrogen projects
+
+     #### Australia leads the world with hydrogen projects
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Mongolia project planned by Elixir Energy and SB Energy
+
+     #### Mongolia project planned by Elixir Energy and SB Energy
      </summary>
+
      </details>
 
      <details>
      <summary>
-     New South Wales expands renewable energy efforts
+
+     #### New South Wales expands renewable energy efforts
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Metacon expands with hydrogen projects in Slovakia and Poland
+
+     #### Metacon expands with hydrogen projects in Slovakia and Poland
      </summary>
+
      </details>
 
 </details>
 
 <details>
 <summary>
-Global companies invest in hydrogen technology
+
+#### Global companies invest in hydrogen technology
 </summary>
+
      <details>
      <summary>
-     LNG and gas crisis dominate energy news
+
+     #### LNG and gas crisis dominate energy news
      </summary>
+
      </details>
 
      <details>
      <summary>
-     New members join hydrogen council board
+
+     #### New members join hydrogen council board
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Industry research and projects for low-cost production
+
+     #### Industry research and projects for low-cost production
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Shell invests in Oman's hydrogen future
+
+     #### Shell invests in Oman's hydrogen future
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Collaborative projects in Spain and the Netherlands
+
+     #### Collaborative projects in Spain and the Netherlands
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Major oil companies invest in low-carbon hydrogen
+
+     #### Major oil companies invest in low-carbon hydrogen
      </summary>
+
      </details>
 
      <details>
      <summary>
-     DNV appointed for various hydrogen assessment projects
+
+     #### DNV appointed for various hydrogen assessment projects
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Companies selected for Dutch hydrogen project
+
+     #### Companies selected for Dutch hydrogen project
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Major Energy Companies Struggle with Climate Promises
+
+     #### Major Energy Companies Struggle with Climate Promises
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Shell partners with Evides for Dutch hydrogen project
+
+     #### Shell partners with Evides for Dutch hydrogen project
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Expansion plans for hydrogen infrastructure in Germany's seaports
+
+     #### Expansion plans for hydrogen infrastructure in Germany's seaports
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Spain invests heavily in renewable hydrogen industry
+
+     #### Spain invests heavily in renewable hydrogen industry
      </summary>
+
      </details>
 
      <details>
      <summary>
-     BP invests $2 billion to develop Spanish hub
+
+     #### BP invests $2 billion to develop Spanish hub
      </summary>
+
      </details>
 
 </details>
 
 <details>
 <summary>
-Collaboration for clean energy development
+
+#### Collaboration for clean energy development
 </summary>
+
      <details>
      <summary>
-     Development of ammonia-based hydrogen storage systems
+
+     #### Development of ammonia-based hydrogen storage systems
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Luxury cruise ship uses eco-friendly power
+
+     #### Luxury cruise ship uses eco-friendly power
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Development and use of clean ammonia
+
+     #### Development and use of clean ammonia
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Fuel cell innovation in maritime transportation
+
+     #### Fuel cell innovation in maritime transportation
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Partnerships and acquisitions in hydrogen sector
+
+     #### Partnerships and acquisitions in hydrogen sector
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Collaboration between JERA and TAQA for decarbonisation
+
+     #### Collaboration between JERA and TAQA for decarbonisation
      </summary>
+
      </details>
 
 </details>
 
 <details>
 <summary>
-Companies and individuals in the industry
+
+#### Companies and individuals in the industry
 </summary>
+
      <details>
      <summary>
-     Appointments made for companies involved in hydrogen
+
+     #### Appointments made for companies involved in hydrogen
      </summary>
+
      </details>
 
      <details>
      <summary>
-     APEX Group advances German green hydrogen project pipeline
+
+     #### APEX Group advances German green hydrogen project pipeline
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Appointments and agreements in hydrogen industry company
+
+     #### Appointments and agreements in hydrogen industry company
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Investments in Hydrogen Technology Startup Fabrum
+
+     #### Investments in Hydrogen Technology Startup Fabrum
      </summary>
+
      </details>
 
 </details>
 
 <details>
 <summary>
-International Companies Developing Ammonia Plants
+
+#### International Companies Developing Ammonia Plants
 </summary>
+
      <details>
      <summary>
-     Partnerships and Projects for Floating Clean Energy
+
+     #### Partnerships and Projects for Floating Clean Energy
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Thyssenkrupp Uhde expands sales and explores partnerships
+
+     #### Thyssenkrupp Uhde expands sales and explores partnerships
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Topsoe's technology secures Chinese ammonia production growth
+
+     #### Topsoe's technology secures Chinese ammonia production growth
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Ammonia production and export partnerships
+
+     #### Ammonia production and export partnerships
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Partnerships and Investment in Hydrogen Projects
+
+     #### Partnerships and Investment in Hydrogen Projects
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Partnership to Develop Hydrogen and Ammonia Plant
+
+     #### Partnership to Develop Hydrogen and Ammonia Plant
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Greenko invests heavily in large-scale electrolyzer orders
+
+     #### Greenko invests heavily in large-scale electrolyzer orders
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Oracle and Ocior advance Pakistani hydrogen project
+
+     #### Oracle and Ocior advance Pakistani hydrogen project
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Ammonia technology contracts in Middle East, Chile and India
+
+     #### Ammonia technology contracts in Middle East, Chile and India
      </summary>
+
      </details>
 
 </details>
 
 <details>
 <summary>
-Development and Advances of Hydrogen Industry
+
+#### Development and Advances of Hydrogen Industry
 </summary>
+
      <details>
      <summary>
-     Exploring the Use of Alternative Fuel Sources
+
+     #### Exploring the Use of Alternative Fuel Sources
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Renewable energy powers California hydrogen production
+
+     #### Renewable energy powers California hydrogen production
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Collaborations and software reduce carbon emissions
+
+     #### Collaborations and software reduce carbon emissions
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Developments in hydrogen fuel infrastructure and industry
+
+     #### Developments in hydrogen fuel infrastructure and industry
      </summary>
+
      </details>
 
      <details>
      <summary>
-     SoCalGas showcases innovative hydrogen applications
+
+     #### SoCalGas showcases innovative hydrogen applications
      </summary>
+
      </details>
 
 </details>
 
 <details>
 <summary>
-Hydrogen as driver for technology growth
+
+#### Hydrogen as driver for technology growth
 </summary>
+
      <details>
      <summary>
-     Innovations in eco-friendly maritime transportation
+
+     #### Innovations in eco-friendly maritime transportation
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Renewable energy alternative for heavy industry
+
+     #### Renewable energy alternative for heavy industry
      </summary>
+
      </details>
 
      <details>
      <summary>
-     News about trains powered by alternative fuel sources
+
+     #### News about trains powered by alternative fuel sources
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Government investments and initiatives support H2 tech
+
+     #### Government investments and initiatives support H2 tech
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Approval granted for North America's first hub
+
+     #### Approval granted for North America's first hub
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Renewable energy planning for Scottish and Irish ports
+
+     #### Renewable energy planning for Scottish and Irish ports
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Nova Scotia and British Columbia lead Canada's green hydrogen development
+
+     #### Nova Scotia and British Columbia lead Canada's green hydrogen development
      </summary>
+
      </details>
 
      <details>
      <summary>
-     CHAR Technologies Expands Biocoal & Green Energy Production
+
+     #### CHAR Technologies Expands Biocoal & Green Energy Production
      </summary>
+
      </details>
 
 </details>
 
 <details>
 <summary>
-Renewable energy projects & partnerships
+
+#### Renewable energy projects & partnerships
 </summary>
+
      <details>
      <summary>
-     Agreement signed to export hydrogen to Europe
+
+     #### Agreement signed to export hydrogen to Europe
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Energy diversification efforts in Middle East countries
+
+     #### Energy diversification efforts in Middle East countries
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Masdar expands renewable energy portfolio in multiple countries
+
+     #### Masdar expands renewable energy portfolio in multiple countries
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Middle Eastern oil producers prioritize clean energy
+
+     #### Middle Eastern oil producers prioritize clean energy
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Bond sales fund UAE's renewable energy transition
+
+     #### Bond sales fund UAE's renewable energy transition
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Sustainable Aviation Fuel production partnerships and growth
+
+     #### Sustainable Aviation Fuel production partnerships and growth
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Global push towards renewable energy solutions
+
+     #### Global push towards renewable energy solutions
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Decarbonizing the steel industry
+
+     #### Decarbonizing the steel industry
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Developments in Oman's Renewable Energy Sector
+
+     #### Developments in Oman's Renewable Energy Sector
      </summary>
+
      </details>
 
      <details>
      <summary>
-     India-UAE-France partnership for clean energy
+
+     #### India-UAE-France partnership for clean energy
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Saudi Arabia's NEOM project obtains operating license
+
+     #### Saudi Arabia's NEOM project obtains operating license
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Deadline extension for Oman's first hydrogen auction
+
+     #### Deadline extension for Oman's first hydrogen auction
      </summary>
+
      </details>
 
      <details>
      <summary>
-     European efforts to transition to clean energy
+
+     #### European efforts to transition to clean energy
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Hydrogen application in public transportation pilots
+
+     #### Hydrogen application in public transportation pilots
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Masdar and IFC partner to develop African renewable energy
+
+     #### Masdar and IFC partner to develop African renewable energy
      </summary>
+
      </details>
 
      <details>
      <summary>
-     ACWA Power expands with green hydrogen projects
+
+     #### ACWA Power expands with green hydrogen projects
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Financing challenges for decarbonizing carbon-intensive industries
+
+     #### Financing challenges for decarbonizing carbon-intensive industries
      </summary>
+
      </details>
 
 </details>
 
 <details>
 <summary>
-EU and US counter green subsidies
+
+#### EU and US counter green subsidies
 </summary>
+
      <details>
      <summary>
-     Investment trends in climate tech for Europe
+
+     #### Investment trends in climate tech for Europe
      </summary>
+
      </details>
 
      <details>
      <summary>
-     EU implements carbon pricing policies
+
+     #### EU implements carbon pricing policies
      </summary>
+
      </details>
 
      <details>
      <summary>
-     EU to promote domestic production and catch-up
+
+     #### EU to promote domestic production and catch-up
      </summary>
+
      </details>
 
      <details>
      <summary>
-     European countries discuss funding for clean energy
+
+     #### European countries discuss funding for clean energy
      </summary>
+
      </details>
 
      <details>
      <summary>
-     EU and US compete in climate subsidy race
+
+     #### EU and US compete in climate subsidy race
      </summary>
+
      </details>
 
      <details>
      <summary>
-     EU's plan for clean tech future
+
+     #### EU's plan for clean tech future
      </summary>
+
      </details>
 
      <details>
      <summary>
-     European perspectives on sustainable energy manufacturing
+
+     #### European perspectives on sustainable energy manufacturing
      </summary>
+
      </details>
 
 </details>
 
 <details>
 <summary>
-Renewable energy projects in Africa
+
+#### Renewable energy projects in Africa
 </summary>
+
      <details>
      <summary>
-     John Cockerill invests in Morocco's electrolyzer production
+
+     #### John Cockerill invests in Morocco's electrolyzer production
      </summary>
+
      </details>
 
      <details>
      <summary>
-     German corporations increase investment in Africa's energy
+
+     #### German corporations increase investment in Africa's energy
      </summary>
+
      </details>
 
      <details>
      <summary>
-     South Africa's renewable energy developments and plans
+
+     #### South Africa's renewable energy developments and plans
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Sasol invests in renewable energy sources
+
+     #### Sasol invests in renewable energy sources
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Collaboration on Alternative Energy in Algeria
+
+     #### Collaboration on Alternative Energy in Algeria
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Asian & African Green Hydrogen Development
+
+     #### Asian & African Green Hydrogen Development
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Chariot acquires water production for Mauritania project
+
+     #### Chariot acquires water production for Mauritania project
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Africa-Europe cooperation in renewable energy investment
+
+     #### Africa-Europe cooperation in renewable energy investment
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Development of hydrogen in the Middle East and North Africa (MENA) region
+
+     #### Development of hydrogen in the Middle East and North Africa (MENA) region
      </summary>
+
      </details>
 
      <details>
      <summary>
-     TotalEnergies reports record profit, plans buybacks amidst EU discord
+
+     #### TotalEnergies reports record profit, plans buybacks amidst EU discord
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Advancing development of African hydrogen infrastructure
+
+     #### Advancing development of African hydrogen infrastructure
      </summary>
+
      </details>
 
      <details>
      <summary>
-     International collaboration and investment in hydrogen technology
+
+     #### International collaboration and investment in hydrogen technology
      </summary>
+
      </details>
 
 </details>
 
 <details>
 <summary>
-Seawater used for hydrogen production
+
+#### Seawater used for hydrogen production
 </summary>
+
      <details>
      <summary>
-     Innovative methods for hydrogen production
+
+     #### Innovative methods for hydrogen production
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Innovations in Catalysts for Hydrogen Production
+
+     #### Innovations in Catalysts for Hydrogen Production
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Innovative methods and sources for producing hydrogen
+
+     #### Innovative methods and sources for producing hydrogen
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Seawater-based production of sustainable fuel
+
+     #### Seawater-based production of sustainable fuel
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Innovations and Challenges in Cost-Effective Production
+
+     #### Innovations and Challenges in Cost-Effective Production
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Green Hydrogen Production From Seawater Technological Advances
+
+     #### Green Hydrogen Production From Seawater Technological Advances
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Producing Hydrogen from Seawater via New Methods
+
+     #### Producing Hydrogen from Seawater via New Methods
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Advancements in producing hydrogen from seawater
+
+     #### Advancements in producing hydrogen from seawater
      </summary>
+
      </details>
 
 </details>
 
 <details>
 <summary>
-Advancements in hydrogen fuel technology
+
+#### Advancements in hydrogen fuel technology
 </summary>
+
      <details>
      <summary>
-     Partnerships and ambitions for UK hydrogen market
+
+     #### Partnerships and ambitions for UK hydrogen market
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Rolls-Royce and Tenneco hydrogen engine tests
+
+     #### Rolls-Royce and Tenneco hydrogen engine tests
      </summary>
+
      </details>
 
      <details>
      <summary>
-     News on Hydrogen Fuel Cell Technology Expansion
+
+     #### News on Hydrogen Fuel Cell Technology Expansion
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Chemours and Ionomr Innovations Expand Operations in France
+
+     #### Chemours and Ionomr Innovations Expand Operations in France
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Renewable Energy Conferences and Exhibitions in Europe
+
+     #### Renewable Energy Conferences and Exhibitions in Europe
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Kier feasibility study on hydrogen-powered depots
+
+     #### Kier feasibility study on hydrogen-powered depots
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Cummins showcases fuel-agnostic platform for CVs
+
+     #### Cummins showcases fuel-agnostic platform for CVs
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Swedish town and rare earth metals discovery
+
+     #### Swedish town and rare earth metals discovery
      </summary>
+
      </details>
 
      <details>
      <summary>
-     New developments in green fuel cell vehicles
+
+     #### New developments in green fuel cell vehicles
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Innovative solutions and awards in hydrogen technology
+
+     #### Innovative solutions and awards in hydrogen technology
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Lhyfe expands production with new facilities
+
+     #### Lhyfe expands production with new facilities
      </summary>
+
      </details>
 
      <details>
      <summary>
-     News headlines about electrolyzer systems and orders
+
+     #### News headlines about electrolyzer systems and orders
      </summary>
+
      </details>
 
      <details>
      <summary>
-     International Policy Cooperation and Subsidies for Electrolysis
+
+     #### International Policy Cooperation and Subsidies for Electrolysis
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Innovations and investments in hydrogen technology
+
+     #### Innovations and investments in hydrogen technology
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Howden's involvement in hydrogen compressor contracts and design
+
+     #### Howden's involvement in hydrogen compressor contracts and design
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Norwegian companies partner for hydrogen infrastructure expansion
+
+     #### Norwegian companies partner for hydrogen infrastructure expansion
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Events and Summits Highlighting H2 Advancements
+
+     #### Events and Summits Highlighting H2 Advancements
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Partnerships driving transition to green energy
+
+     #### Partnerships driving transition to green energy
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Companies collaborate on fuel cell development
+
+     #### Companies collaborate on fuel cell development
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Fuel cell buses and generators drive innovation
+
+     #### Fuel cell buses and generators drive innovation
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Advancements in Hydrogen Transport and Storage Technologies
+
+     #### Advancements in Hydrogen Transport and Storage Technologies
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Development and deployment of hydrogen-powered trucks in India
+
+     #### Development and deployment of hydrogen-powered trucks in India
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Advancements in fuel cell technology for various industries
+
+     #### Advancements in fuel cell technology for various industries
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Collaboration to Develop Solid Oxide Electrolyzers
+
+     #### Collaboration to Develop Solid Oxide Electrolyzers
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Expansion of hydrogen refuelling infrastructure in Europe
+
+     #### Expansion of hydrogen refuelling infrastructure in Europe
      </summary>
+
      </details>
 
      <details>
      <summary>
-     News about steel industry's decarbonization efforts
+
+     #### News about steel industry's decarbonization efforts
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Comparing Fuel Cell Electric Vehicles to Battery-Electric
+
+     #### Comparing Fuel Cell Electric Vehicles to Battery-Electric
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Loop Energy announces new partnerships and board addition
+
+     #### Loop Energy announces new partnerships and board addition
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Investment in low-carbon energy transition projects
+
+     #### Investment in low-carbon energy transition projects
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Hydrogen production from plastic waste in Europe
+
+     #### Hydrogen production from plastic waste in Europe
      </summary>
+
      </details>
 
      <details>
      <summary>
-     HDF Energy expands production of hydrogen fuel cells
+
+     #### HDF Energy expands production of hydrogen fuel cells
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Advancements in marine industry fuel technology
+
+     #### Advancements in marine industry fuel technology
      </summary>
+
      </details>
 
      <details>
      <summary>
-     New hydrogen-powered vehicles and equipment unveiled
+
+     #### New hydrogen-powered vehicles and equipment unveiled
      </summary>
+
      </details>
 
 </details>
 
 <details>
 <summary>
-Stocks and policies for hydrogen growth
+
+#### Stocks and policies for hydrogen growth
 </summary>
+
      <details>
      <summary>
-     Hyzon Motors' Delayed Disclosure Hearings
+
+     #### Hyzon Motors' Delayed Disclosure Hearings
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Investment opportunities in clean energy technologies
+
+     #### Investment opportunities in clean energy technologies
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Air Products expands with new offices and sponsorships
+
+     #### Air Products expands with new offices and sponsorships
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Investment opportunities in alternative energy
+
+     #### Investment opportunities in alternative energy
      </summary>
+
      </details>
 
      <details>
      <summary>
-     News on US policy and IRA driving growth
+
+     #### News on US policy and IRA driving growth
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Analysis of companies investing in low-carbon technologies
+
+     #### Analysis of companies investing in low-carbon technologies
      </summary>
+
      </details>
 
 </details>
 
 <details>
 <summary>
-Companies and industries driving innovation
+
+#### Companies and industries driving innovation
 </summary>
+
      <details>
      <summary>
-     Nel ASA expands production for electrolysers
+
+     #### Nel ASA expands production for electrolysers
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Mining and exploration updates with critical elements
+
+     #### Mining and exploration updates with critical elements
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Getech Group sees growth in renewable energy contracts
+
+     #### Getech Group sees growth in renewable energy contracts
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Financial results and order backlog updates
+
+     #### Financial results and order backlog updates
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Updates and plans for renewable energy companies
+
+     #### Updates and plans for renewable energy companies
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Financial reports of Cummins and Cognex
+
+     #### Financial reports of Cummins and Cognex
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Financial success of a company
+
+     #### Financial success of a company
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Financial performance of major industrial gas companies
+
+     #### Financial performance of major industrial gas companies
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Nikola and GP Joule partner for FCEVs
+
+     #### Nikola and GP Joule partner for FCEVs
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Financial struggles and layoffs at ITM Power
+
+     #### Financial struggles and layoffs at ITM Power
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Positive financial results for companies in the energy sector
+
+     #### Positive financial results for companies in the energy sector
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Financial reports for companies involved in hydrogen technology
+
+     #### Financial reports for companies involved in hydrogen technology
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Market performance and economic outlook updates
+
+     #### Market performance and economic outlook updates
      </summary>
+
      </details>
 
      <details>
      <summary>
-     CF Industries and CIP invest in ammonia projects
+
+     #### CF Industries and CIP invest in ammonia projects
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Corporate trading updates and mining outlook
+
+     #### Corporate trading updates and mining outlook
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Sasol's renewable energy integration and sales metrics
+
+     #### Sasol's renewable energy integration and sales metrics
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Fusion Fuel receives funding and grants
+
+     #### Fusion Fuel receives funding and grants
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Q4 2022 Earnings of Various Energy Companies
+
+     #### Q4 2022 Earnings of Various Energy Companies
      </summary>
+
      </details>
 
 </details>
 
 <details>
 <summary>
-International energy and geopolitical issues
+
+#### International energy and geopolitical issues
 </summary>
+
      <details>
      <summary>
-     Geopolitical and production concerns
+
+     #### Geopolitical and production concerns
      </summary>
+
      </details>
 
      <details>
      <summary>
-     France, Germany, India discuss clean energy technology
+
+     #### France, Germany, India discuss clean energy technology
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Kazakhstan's political climate and international relations
+
+     #### Kazakhstan's political climate and international relations
      </summary>
+
      </details>
 
      <details>
      <summary>
-     International politics and environmental resources
+
+     #### International politics and environmental resources
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Issues surrounding energy supply and geopolitics
+
+     #### Issues surrounding energy supply and geopolitics
      </summary>
+
      </details>
 
 </details>
 
 <details>
 <summary>
-News coverage of industry developments
+
+#### News coverage of industry developments
 </summary>
+
      <details>
      <summary>
-     Wind power fuel generation in Texas and Wyoming
+
+     #### Wind power fuel generation in Texas and Wyoming
      </summary>
+
      </details>
 
      <details>
      <summary>
-     US regions compete for hydrogen hub funding
+
+     #### US regions compete for hydrogen hub funding
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Natural gas blending tests with hydrogen
+
+     #### Natural gas blending tests with hydrogen
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Developments and setbacks in electrolyser plant partnerships
+
+     #### Developments and setbacks in electrolyser plant partnerships
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Florida utility expands renewable energy production
+
+     #### Florida utility expands renewable energy production
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Discussions on tax breaks and industry challenges
+
+     #### Discussions on tax breaks and industry challenges
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Controversy surrounds LA power plant conversion
+
+     #### Controversy surrounds LA power plant conversion
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Power company explores alternative energy production
+
+     #### Power company explores alternative energy production
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Hydrogen development in Australia/mainly Western Australia
+
+     #### Hydrogen development in Australia/mainly Western Australia
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Plug Power's progress and challenges
+
+     #### Plug Power's progress and challenges
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Australia's Green Hydrogen Industry Losing Ground
+
+     #### Australia's Green Hydrogen Industry Losing Ground
      </summary>
+
      </details>
 
 </details>
 
 <details>
 <summary>
-North America and Latin America energy market
+
+#### North America and Latin America energy market
 </summary>
+
      <details>
      <summary>
-     North America's energy transition acceleration and challenges
+
+     #### North America's energy transition acceleration and challenges
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Data centers adopting renewable energy initiatives
+
+     #### Data centers adopting renewable energy initiatives
      </summary>
+
      </details>
 
      <details>
      <summary>
-     InvestChile's portfolio includes significant hydrogen projects
+
+     #### InvestChile's portfolio includes significant hydrogen projects
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Latin America explores clean fuel innovations
+
+     #### Latin America explores clean fuel innovations
      </summary>
+
      </details>
 
 </details>
 
 <details>
 <summary>
-Articles discuss hydrogen in aviation industry
+
+#### Articles discuss hydrogen in aviation industry
 </summary>
+
      <details>
      <summary>
-     Alternatives to traditional air travel fuel
+
+     #### Alternatives to traditional air travel fuel
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Partnerships and initiatives for sustainable aviation
+
+     #### Partnerships and initiatives for sustainable aviation
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Experimental hydrogen-powered aviation gains ground
+
+     #### Experimental hydrogen-powered aviation gains ground
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Synthetic fuels create buzz in sustainability push
+
+     #### Synthetic fuels create buzz in sustainability push
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Challenges of sustainable aviation biofuel explored
+
+     #### Challenges of sustainable aviation biofuel explored
      </summary>
+
      </details>
 
 </details>
 
 <details>
 <summary>
-Expansion and partnerships in clean energy
+
+#### Expansion and partnerships in clean energy
 </summary>
+
      <details>
      <summary>
-     Capstone Green Energy's Follow-On Orders and Presentations
+
+     #### Capstone Green Energy's Follow-On Orders and Presentations
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Tech startups and expansion in Houston energy industry
+
+     #### Tech startups and expansion in Houston energy industry
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Collaborations and alliances for carbon-neutral technology
+
+     #### Collaborations and alliances for carbon-neutral technology
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Mott Corporation expands its clean energy business
+
+     #### Mott Corporation expands its clean energy business
      </summary>
+
      </details>
 
 </details>
 
 <details>
 <summary>
-Innovation and Investment in Hydrogen Technology
+
+#### Innovation and Investment in Hydrogen Technology
 </summary>
+
      <details>
      <summary>
-     Spain and Portugal's leadership in hydrogen innovation
+
+     #### Spain and Portugal's leadership in hydrogen innovation
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Gold miners and Platinum benefit from adoption
+
+     #### Gold miners and Platinum benefit from adoption
      </summary>
+
      </details>
 
      <details>
      <summary>
-     California's climate change initiatives and policies
+
+     #### California's climate change initiatives and policies
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Patent data reveals increasing interest in technology
+
+     #### Patent data reveals increasing interest in technology
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Exploring potential and challenges of hydrogen power
+
+     #### Exploring potential and challenges of hydrogen power
      </summary>
+
      </details>
 
      <details>
      <summary>
-     UK initiatives drive hydrogen industry development
+
+     #### UK initiatives drive hydrogen industry development
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Countries Compete for Dominance in Hydrogen Industry
+
+     #### Countries Compete for Dominance in Hydrogen Industry
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Exploring the Viability of Hydrogen Energy
+
+     #### Exploring the Viability of Hydrogen Energy
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Development and challenges of hydrogen projects
+
+     #### Development and challenges of hydrogen projects
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Development and Investment in Hydrogen Technology
+
+     #### Development and Investment in Hydrogen Technology
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Launch of €100m hydrogen investment portfolio in Europe
+
+     #### Launch of €100m hydrogen investment portfolio in Europe
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Developing renewable energy opportunities in Asia-Pacific
+
+     #### Developing renewable energy opportunities in Asia-Pacific
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Cost competitiveness of imported hydrogen in EU
+
+     #### Cost competitiveness of imported hydrogen in EU
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Electrolyzer market growth drives green energy innovation
+
+     #### Electrolyzer market growth drives green energy innovation
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Investment and growth potential in green hydrogen
+
+     #### Investment and growth potential in green hydrogen
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Ammonia as alternative fuel source gains momentum
+
+     #### Ammonia as alternative fuel source gains momentum
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Johnson Matthey and Plug Power partnership announcement
+
+     #### Johnson Matthey and Plug Power partnership announcement
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Oil majors' investments and renewable energy transition
+
+     #### Oil majors' investments and renewable energy transition
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Certification schemes for renewable energy source
+
+     #### Certification schemes for renewable energy source
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Renewable fuel source in Northeastern US
+
+     #### Renewable fuel source in Northeastern US
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Innovative technologies for sustainable fuel production
+
+     #### Innovative technologies for sustainable fuel production
      </summary>
+
      </details>
 
      <details>
      <summary>
-     The future of decarbonizing with hydrogen
+
+     #### The future of decarbonizing with hydrogen
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Investment and research in alternative energy source
+
+     #### Investment and research in alternative energy source
      </summary>
+
      </details>
 
      <details>
      <summary>
-     EU Regulations and Controversies Surrounding Hydrogen Production
+
+     #### EU Regulations and Controversies Surrounding Hydrogen Production
      </summary>
+
      </details>
 
      <details>
      <summary>
-     European initiatives for aviation decarbonization
+
+     #### European initiatives for aviation decarbonization
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Outlook bright for hydrogen as energy source
+
+     #### Outlook bright for hydrogen as energy source
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Africa's potential for renewable energy development
+
+     #### Africa's potential for renewable energy development
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Comparing Electrolyzer Technologies & Blue Hydrogen Carbon Capture
+
+     #### Comparing Electrolyzer Technologies & Blue Hydrogen Carbon Capture
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Upcoming events and investment opportunities for hydrogen
+
+     #### Upcoming events and investment opportunities for hydrogen
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Market growth and feasibility of green electrolysis
+
+     #### Market growth and feasibility of green electrolysis
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Japan's struggles with hydrogen policy implementation
+
+     #### Japan's struggles with hydrogen policy implementation
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Innovations and challenges in hydrogen technology
+
+     #### Innovations and challenges in hydrogen technology
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Exploring collaborations to promote hydrogen technology
+
+     #### Exploring collaborations to promote hydrogen technology
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Exploring potential and challenges of hydrogen energy
+
+     #### Exploring potential and challenges of hydrogen energy
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Water scarcity challenges green hydrogen production
+
+     #### Water scarcity challenges green hydrogen production
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Turkey's energy plan and strategy for 2053
+
+     #### Turkey's energy plan and strategy for 2053
      </summary>
+
      </details>
 
 </details>
 
 <details>
 <summary>
-Renewable energy investment and innovation
+
+#### Renewable energy investment and innovation
 </summary>
+
      <details>
      <summary>
-     Renewable energy sector sees significant growth
+
+     #### Renewable energy sector sees significant growth
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Investment in low-carbon energy transition
+
+     #### Investment in low-carbon energy transition
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Renewable energy stocks and startups in 2023
+
+     #### Renewable energy stocks and startups in 2023
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Deployment and Investment in Clean Energy Technologies
+
+     #### Deployment and Investment in Clean Energy Technologies
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Mining sectors and metals shift in popularity
+
+     #### Mining sectors and metals shift in popularity
      </summary>
+
      </details>
 
      <details>
      <summary>
-     UK economy prioritizes green growth amidst energy concerns
+
+     #### UK economy prioritizes green growth amidst energy concerns
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Emerging technological innovations in sustainable energy
+
+     #### Emerging technological innovations in sustainable energy
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Energy market predictions and post-oil era glimpses
+
+     #### Energy market predictions and post-oil era glimpses
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Investment focus on energy diversification opportunities
+
+     #### Investment focus on energy diversification opportunities
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Global leaders discuss energy shift at Davos
+
+     #### Global leaders discuss energy shift at Davos
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Climate and finance challenges examined in Davos
+
+     #### Climate and finance challenges examined in Davos
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Climate solutions and tipping points towards net zero
+
+     #### Climate solutions and tipping points towards net zero
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Fracking debate impacts renewables' public opinion
+
+     #### Fracking debate impacts renewables' public opinion
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Food and fertilizer
+
+     #### Food and fertilizer
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Government policies and funding for hydrogen initiatives
+
+     #### Government policies and funding for hydrogen initiatives
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Financial reports and commitment to environmental stewardship
+
+     #### Financial reports and commitment to environmental stewardship
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Renewable energy acceleration amidst Russian-Ukrainian conflict
+
+     #### Renewable energy acceleration amidst Russian-Ukrainian conflict
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Cleantech and industrial decarbonization plans
+
+     #### Cleantech and industrial decarbonization plans
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Innovative strategies and investment for clean energy
+
+     #### Innovative strategies and investment for clean energy
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Debate over nuclear as renewable energy alternative
+
+     #### Debate over nuclear as renewable energy alternative
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Topics: Moon Exploration, False Messiahs, Israeli Politics, Legal Controversy
+
+     #### Topics: Moon Exploration, False Messiahs, Israeli Politics, Legal Controversy
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Financial performance and market approach of companies
+
+     #### Financial performance and market approach of companies
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Energy transitions and investments
+
+     #### Energy transitions and investments
      </summary>
+
      </details>
 
      <details>
      <summary>
-     China's Renewable Investment and Clean Tech Dominance
+
+     #### China's Renewable Investment and Clean Tech Dominance
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Offshore wind power and energy transition trends
+
+     #### Offshore wind power and energy transition trends
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Energy transition, climate change, and environment news
+
+     #### Energy transition, climate change, and environment news
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Transitioning to zero emissions
+
+     #### Transitioning to zero emissions
      </summary>
+
      </details>
 
 </details>
 
 <details>
 <summary>
-Renewable energy and sustainable technologies
+
+#### Renewable energy and sustainable technologies
 </summary>
+
      <details>
      <summary>
-     Market analysis and growth forecast for hydrogen
+
+     #### Market analysis and growth forecast for hydrogen
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Technological advancements and market outlook for hydrogen
+
+     #### Technological advancements and market outlook for hydrogen
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Market growth and trends of hydrogen
+
+     #### Market growth and trends of hydrogen
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Growth and market potential in mining
+
+     #### Growth and market potential in mining
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Market growth expected for hydrogen-powered transportation systems
+
+     #### Market growth expected for hydrogen-powered transportation systems
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Market projection for power generation and storage
+
+     #### Market projection for power generation and storage
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Emerging markets predictions for sustainable development
+
+     #### Emerging markets predictions for sustainable development
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Market growth and analysis of fuel cells
+
+     #### Market growth and analysis of fuel cells
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Market trends of related industries to green hydrogen
+
+     #### Market trends of related industries to green hydrogen
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Market Analysis for Related Chemical Industries
+
+     #### Market Analysis for Related Chemical Industries
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Global steel market's transition to sustainability
+
+     #### Global steel market's transition to sustainability
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Energy management, construction equipment & market growth
+
+     #### Energy management, construction equipment & market growth
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Market insights on green ammonia and fertilizers
+
+     #### Market insights on green ammonia and fertilizers
      </summary>
+
      </details>
 
      <details>
      <summary>
-     News on energy storage and key players
+
+     #### News on energy storage and key players
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Market growth and analysis of clean energy
+
+     #### Market growth and analysis of clean energy
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Rapid growth projected for alternative energy source
+
+     #### Rapid growth projected for alternative energy source
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Renewable and sustainable fuel market analysis
+
+     #### Renewable and sustainable fuel market analysis
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Market growth projections for electrolysis technology
+
+     #### Market growth projections for electrolysis technology
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Growing Global Investment in Hydrogen Production
+
+     #### Growing Global Investment in Hydrogen Production
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Fusion Fuel Fourth Quarter Investor Update
+
+     #### Fusion Fuel Fourth Quarter Investor Update
      </summary>
+
      </details>
 
      <details>
      <summary>
-     Market analysis of chelating agents and fertilizers
+
+     #### Market analysis of chelating agents and fertilizers
      </summary>
+
      </details>
 
 </details>
