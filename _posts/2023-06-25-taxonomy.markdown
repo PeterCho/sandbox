@@ -7,7 +7,7 @@ categories: jekyll update
 
 <p style="font-size:100px; background-color:rgb(0, 160, 0)"><h1> TAXONOMY FOR 3.4K GREEN HYDROGEN ARTICLES </h1></p>
 
-<details><summary><h1> 1.  Renewable energy technologies and applications </h1></summary><blockquote>
+<details><summary><h1> 1. Renewable energy technologies and applications </h1></summary><blockquote>
      <details><summary><h2>Long-duration energy storage projects using innovative technology</h2></summary><blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000043.png">PG&E Teams With Energy Vault To Build And Operate The Largest Green Hydrogen Long-Duration Energy Storage System In The US</a></blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000044.png">PG&E, Energy Vault Plan Largest US Utility-scale Battery, Green Hydrogen Long Duration Storage Project</a></blockquote>
@@ -152,7 +152,7 @@ categories: jekyll update
           <blockquote><a href="./images/text_docs/GreenH2/image_003423.png">Global Electric Vehicles Market Report 2023: Localizing The EV Supply Chain Remains Crucial For Sustainable Growth Of EVs</a></blockquote>
      </blockquote></details>
 </blockquote></details>
-<details><summary><h1> 2.  News about regulations, research and innovations </h1></summary><blockquote>
+<details><summary><h1> 2. News about regulations, research and innovations </h1></summary><blockquote>
      <details><summary><h2>Transportation sector to be decarbonized with hydrogen</h2></summary><blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000148.png">Hydrogen Key To New US Blueprint For Decarbonising Transport</a></blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000634.png">Federal Plan Takes Aim At Transportation Emissions</a></blockquote>
@@ -184,7 +184,7 @@ categories: jekyll update
           <blockquote><a href="./images/text_docs/GreenH2/image_003231.png">Renewable Innovations - New Engineering Collaboration Prepares Emergency Generators For New Zealand Powered By Hydrogen Fuel Cells</a></blockquote>
      </blockquote></details>
 </blockquote></details>
-<details><summary><h1> Companies advance electrolysers for hydrogen production </h1></summary><blockquote>
+<details><summary><h1> 3. Companies advance electrolysers for hydrogen production </h1></summary><blockquote>
      <details><summary><h2>Advancements in Hydrogen Electrolyzers for Wind Energy</h2></summary><blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000125.png">Hydrogen Optimized Elevates Performance Of Its RuggedCell™ Water Electrolyzers In Simulation Of Intermittent Wind Power For Green Hydrogen Project In Mauritania</a></blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000140.png">Hydrogen Optimized Elevates Performance Of Its RuggedCell™ Water Electrolyzers In Simulation Of Intermittent Wind Power For Green Hydrogen Project In Mauritania</a></blockquote>
@@ -237,7 +237,7 @@ categories: jekyll update
           <blockquote><a href="./images/text_docs/GreenH2/image_002936.png">LONGi Hydrogen Launches ALK Hi1 Electrolyzer</a></blockquote>
      </blockquote></details>
 </blockquote></details>
-<details><summary><h1> Sustainable innovation in chemical and cement industries </h1></summary><blockquote>
+<details><summary><h1> 4. Sustainable innovation in chemical and cement industries </h1></summary><blockquote>
      <details><summary><h2>Efforts to reduce carbon emissions in cement production</h2></summary><blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000416.png">Mega-task Eco-cement</a></blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_002097.png">Here' S 3 Ways To Cut The Carbon Out Of Cement Right Now</a></blockquote>
@@ -261,7 +261,7 @@ categories: jekyll update
           <blockquote><a href="./images/text_docs/GreenH2/image_002900.png">TotalEnergies, Holcim Belgium Probe Floating Solar For Heavy Industry Decarbonization</a></blockquote>
      </blockquote></details>
 </blockquote></details>
-<details><summary><h1> Fortescue and Baker Hughes lead collaborations </h1></summary><blockquote>
+<details><summary><h1> 5. Fortescue and Baker Hughes lead collaborations </h1></summary><blockquote>
      <details><summary><h2>Fortescue's plans for hydrogen projects and growth</h2></summary><blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000576.png">Attracting Skilled Workers &#8216;mustn&#8217;t Be A Roadblock To The Energy Transition&#8217;</a></blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000978.png">Frontier Now Has A Team To Make Sure Its Green Hydrogen Project Is Properly Green</a></blockquote>
@@ -352,7 +352,7 @@ categories: jekyll update
           <blockquote><a href="./images/text_docs/GreenH2/image_002765.png">FuelCell Energy, Malaysia Marine To Partner On Large-scale Hydrogen Production (FCEL)</a></blockquote>
      </blockquote></details>
 </blockquote></details>
-<details><summary><h1> India's growing investment into clean energy </h1></summary><blockquote>
+<details><summary><h1> 6. India's growing investment into clean energy </h1></summary><blockquote>
      <details><summary><h2>India's push towards sustainable energy alternatives</h2></summary><blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000025.png">Green Hydrogen In SIGHT, India Has Taken A Leap. Now Ensure It Doesn' T End Up Being Hot Air</a></blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000060.png">Explained | India' S Plan To Develop Green Hydrogen</a></blockquote>
@@ -824,7 +824,7 @@ categories: jekyll update
           <blockquote><a href="./images/text_docs/GreenH2/image_003395.png">IOC To Set Up Green Hydrogen Plants At All Refineries</a></blockquote>
      </blockquote></details>
 </blockquote></details>
-<details><summary><h1> Innovation and Investment in Hydrogen </h1></summary><blockquote>
+<details><summary><h1> 7. Innovation and Investment in Hydrogen </h1></summary><blockquote>
      <details><summary><h2>Elcogen partners with Korean shipbuilding & ENERTRAG project</h2></summary><blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000052.png">Elogen To Supply Enertrag With 10MW PEM Electrolyser For German Hydrogen Project</a></blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000086.png">Elogen Is Selected By ENERTRAG For The Supply Of A 10 MW PEM Electrolyser</a></blockquote>
@@ -908,7 +908,7 @@ categories: jekyll update
           <blockquote><a href="./images/text_docs/GreenH2/image_003421.png">Biofuels - Blueprint For Commercial E-fuel Production Being Built With Siemens Energy Technology - Renewable Energy Magazine, At The Heart Of Clean Energy Journalism</a></blockquote>
      </blockquote></details>
 </blockquote></details>
-<details><summary><h1> Renewable energy sources and hydrogen production </h1></summary><blockquote>
+<details><summary><h1> 8. Renewable energy sources and hydrogen production </h1></summary><blockquote>
      <details><summary><h2>Expansion of Bloom Energy and H2PLT in Europe</h2></summary><blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000154.png">Hydrogen Economy - Bloom Energy Partners To Serve Markets In Spain And Portugal</a></blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000155.png">Daily News Wrap-Up: Hitachi Energy To Offer Solutions To 1.44 GW Offshore Wind Farms</a></blockquote>
@@ -965,7 +965,7 @@ categories: jekyll update
           <blockquote><a href="./images/text_docs/GreenH2/image_002908.png">Nova Scotia Green Hydrogen Project To Use Power From 2GW Onshore Wind Farm</a></blockquote>
      </blockquote></details>
 </blockquote></details>
-<details><summary><h1> Hydrogen usage and technology development </h1></summary><blockquote>
+<details><summary><h1> 9. Hydrogen usage and technology development </h1></summary><blockquote>
      <details><summary><h2>Hydrogen innovation in South Australia showcased</h2></summary><blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000257.png">Industry Backs South Australian Scientist Making Green Hydrogen Headway</a></blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000491.png">Hydrogen Powers Gin Distillery In Barossa Valley</a></blockquote>
@@ -1057,7 +1057,7 @@ categories: jekyll update
           <blockquote><a href="./images/text_docs/GreenH2/image_003414.png">Discussing The Future For Hydrogen Development In Northern Ireland</a></blockquote>
      </blockquote></details>
 </blockquote></details>
-<details><summary><h1> Companies and individuals make green progress </h1></summary><blockquote>
+<details><summary><h1> 10. Companies and individuals make green progress </h1></summary><blockquote>
      <details><summary><h2>Investments and awards for innovative electrolysis solutions</h2></summary><blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000759.png">Next Hydrogen To Receive Investment Of $5.1 Million From Sustainable Development Technology Canada (SDTC) For Innovative Large-Scale Electrolysis Development</a></blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000762.png">Next Hydrogen Solutions To Receive Investment Of $5.1M From SDTC</a></blockquote>
@@ -1112,7 +1112,7 @@ categories: jekyll update
           <blockquote><a href="./images/text_docs/GreenH2/image_003383.png">Green Hydrogen Technology Hires Robert Nave As CEO</a></blockquote>
      </blockquote></details>
 </blockquote></details>
-<details><summary><h1> Energy transition and sustainability efforts </h1></summary><blockquote>
+<details><summary><h1> 11. Energy transition and sustainability efforts </h1></summary><blockquote>
      <details><summary><h2>Advancements and calls for change in production</h2></summary><blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000132.png">Hydrogen Project Gets Country Manager</a></blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_001458.png">Cavendish: T&T A Potential 'Rolls-Royce' In Production Of Green Hydrogen</a></blockquote>
@@ -1137,7 +1137,7 @@ categories: jekyll update
           <blockquote><a href="./images/text_docs/GreenH2/image_002899.png">Tunisia' S Energy Sector: A Just Transition Analysis</a></blockquote>
      </blockquote></details>
 </blockquote></details>
-<details><summary><h1> Hydrogen pipeline projects and investments </h1></summary><blockquote>
+<details><summary><h1> 12. Hydrogen pipeline projects and investments </h1></summary><blockquote>
      <details><summary><h2>Portugal's investment and plans for hydrogen expansion</h2></summary><blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000101.png">Portugal Reveals First Details Of Upcoming Green Hydrogen Tender</a></blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_001249.png">Portugal Agrees To Swap Cape Verde's Debt For Environmental Investment</a></blockquote>
@@ -1231,7 +1231,7 @@ categories: jekyll update
           <blockquote><a href="./images/text_docs/GreenH2/image_002654.png">Germany-speed For Hydrogen – Not Only For LNG Terminals</a></blockquote>
      </blockquote></details>
 </blockquote></details>
-<details><summary><h1> Green hydrogen investment and development </h1></summary><blockquote>
+<details><summary><h1> 13. Green hydrogen investment and development </h1></summary><blockquote>
      <details><summary><h2>Green energy backup solutions for datacenters</h2></summary><blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000030.png">Bergen Engines - First Full-Scale Green Hydrogen Production Trials Completed</a></blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000053.png">Bergen Engines Trials Green Hydrogen And Natural Gas Blend</a></blockquote>
@@ -1294,7 +1294,7 @@ categories: jekyll update
           <blockquote><a href="./images/text_docs/GreenH2/image_003324.png">StormFisher Hydrogen And Kiwi AG Enter Into A Partnership For Green Hydrogen Projects In North America And Europe</a></blockquote>
      </blockquote></details>
 </blockquote></details>
-<details><summary><h1> Renewable energy projects and partnerships </h1></summary><blockquote>
+<details><summary><h1> 14. Renewable energy projects and partnerships </h1></summary><blockquote>
      <details><summary><h2>Renewable energy projects in Romania and Croatia</h2></summary><blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000014.png">Hydrogen Filling Station Project Underway On Vis Island In Croatia</a></blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000015.png">Hydrogen Filling Station Project Underway In Vis Island In Croatia</a></blockquote>
@@ -1459,7 +1459,7 @@ categories: jekyll update
           <blockquote><a href="./images/text_docs/GreenH2/image_003232.png">Metacon In Cooperation With Hydroholding To Supply Integrated PEM Electrolyser And Hydrogen Refuelling Station In Slovakia</a></blockquote>
      </blockquote></details>
 </blockquote></details>
-<details><summary><h1> Global companies invest in hydrogen technology </h1></summary><blockquote>
+<details><summary><h1> 15. Global companies invest in hydrogen technology </h1></summary><blockquote>
      <details><summary><h2>LNG and gas crisis dominate energy news</h2></summary><blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000229.png">Port Of Antwerp-Bruges Records Sharp LNG And LPG Growth</a></blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000412.png">Gas Crisis: Causes And Remedies | Political Economy</a></blockquote>
@@ -1615,7 +1615,7 @@ categories: jekyll update
           <blockquote><a href="./images/text_docs/GreenH2/image_003433.png">Bp Launches Plans For 2GW Green Hydrogen Cluster In Spain</a></blockquote>
      </blockquote></details>
 </blockquote></details>
-<details><summary><h1> Collaboration for clean energy development </h1></summary><blockquote>
+<details><summary><h1> 16. Collaboration for clean energy development </h1></summary><blockquote>
      <details><summary><h2>Development of ammonia-based hydrogen storage systems</h2></summary><blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000231.png">Green Ammonia Used In New Ship Design To Supply And Store Hydrogen</a></blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_002325.png">FuelPositive Provides Update On Progress Of Its Farm Ready Green Ammonia System And Sales Pipeline</a></blockquote>
@@ -1677,7 +1677,7 @@ categories: jekyll update
           <blockquote><a href="./images/text_docs/GreenH2/image_002604.png">Japan's JERA, Abu Dhabi's TAQA To Collaborate In Decarbonisation Business</a></blockquote>
      </blockquote></details>
 </blockquote></details>
-<details><summary><h1> Companies and individuals in the industry </h1></summary><blockquote>
+<details><summary><h1> 17. Companies and individuals in the industry </h1></summary><blockquote>
      <details><summary><h2>Appointments made for companies involved in hydrogen</h2></summary><blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000153.png">Ballard Power Systems Appoints New Chief Operating Officer</a></blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_002177.png">HyCap Appoints Two New Members To Leadership Team</a></blockquote>
@@ -1703,7 +1703,7 @@ categories: jekyll update
           <blockquote><a href="./images/text_docs/GreenH2/image_002307.png">Fabrum Raises $23m Series A From Global Giants To Advance Hydrogen Technologies To Decarbonise The Economy</a></blockquote>
      </blockquote></details>
 </blockquote></details>
-<details><summary><h1> International Companies Developing Ammonia Plants </h1></summary><blockquote>
+<details><summary><h1> 18. International Companies Developing Ammonia Plants </h1></summary><blockquote>
      <details><summary><h2>Partnerships and Projects for Floating Clean Energy</h2></summary><blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000323.png">L&T Partners With H2Carrier To Develop Floating Green Hydrogen Projects</a></blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000331.png">H2Carrier Teams Up With L&T To Develop Floating Green Ammonia Projects</a></blockquote>
@@ -1803,7 +1803,7 @@ categories: jekyll update
           <blockquote><a href="./images/text_docs/GreenH2/image_003401.png">KBR Wins Contract To Supply Its Ammonia Technology To Middle East</a></blockquote>
      </blockquote></details>
 </blockquote></details>
-<details><summary><h1> Development and Advances of Hydrogen Industry </h1></summary><blockquote>
+<details><summary><h1> 19. Development and Advances of Hydrogen Industry </h1></summary><blockquote>
      <details><summary><h2>Exploring the Use of Alternative Fuel Sources</h2></summary><blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_001262.png">Professor Hanington's Speaking Of Science: Filling Up With Hydrogen (Part 2)</a></blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_001708.png">It' S Not All Lithium All The Time: DOE Commits Millions To Hydrogen Fuel Research </a></blockquote>
@@ -1848,7 +1848,7 @@ categories: jekyll update
           <blockquote><a href="./images/text_docs/GreenH2/image_002393.png">SoCal Gas Unveils Hydrogen-Powered Microgrid - Los Angeles Business Journal</a></blockquote>
      </blockquote></details>
 </blockquote></details>
-<details><summary><h1> Hydrogen as driver for technology growth </h1></summary><blockquote>
+<details><summary><h1> 20. Hydrogen as driver for technology growth </h1></summary><blockquote>
      <details><summary><h2>Innovations in eco-friendly maritime transportation</h2></summary><blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000082.png">Vopak Launches JV To Transport Hydrogen Using Current Infrastructure</a></blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000103.png">MOL To Build Sail-fitted Hydrogen-producing Ship</a></blockquote>
@@ -1962,7 +1962,7 @@ categories: jekyll update
           <blockquote><a href="./images/text_docs/GreenH2/image_003436.png">Charbone Hydrogen Concludes Construction Agreement For The Initial Phase Of Its Green Hydrogen Facility In Quebec : Biofuels Digest</a></blockquote>
      </blockquote></details>
 </blockquote></details>
-<details><summary><h1> Renewable energy projects & partnerships </h1></summary><blockquote>
+<details><summary><h1> 21. Renewable energy projects & partnerships </h1></summary><blockquote>
      <details><summary><h2>Agreement signed to export hydrogen to Europe</h2></summary><blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000356.png">UAE Masdar Signs MoU With Dutch Companies To Develop Green Hydrogen Supply Chain Through Amsterdam</a></blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000359.png">Masdar Signs Agreement To Explore Exporting Green Hydrogen From Abu Dhabi To Europe</a></blockquote>
@@ -2173,7 +2173,7 @@ categories: jekyll update
           <blockquote><a href="./images/text_docs/GreenH2/image_003393.png">Carbon Intensive Industries Call For Financing To Support Decarbonization</a></blockquote>
      </blockquote></details>
 </blockquote></details>
-<details><summary><h1> EU and US counter green subsidies </h1></summary><blockquote>
+<details><summary><h1> 22. EU and US counter green subsidies </h1></summary><blockquote>
      <details><summary><h2>Investment trends in climate tech for Europe</h2></summary><blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000173.png">Going Green: European GreenTech Overview | December 2022 | Powered By Net Zero Insights</a></blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000937.png">New Data From Net Zero Insights And Alder & Co. Shows Europe Closing Gap In Climate Tech Investment Compared To U.S. - Yahoo Finance</a></blockquote>
@@ -2257,7 +2257,7 @@ categories: jekyll update
           <blockquote><a href="./images/text_docs/GreenH2/image_003442.png">The Green Brief: Fighting Against Windmills</a></blockquote>
      </blockquote></details>
 </blockquote></details>
-<details><summary><h1> Renewable energy projects in Africa </h1></summary><blockquote>
+<details><summary><h1> 23. Renewable energy projects in Africa </h1></summary><blockquote>
      <details><summary><h2>John Cockerill invests in Morocco's electrolyzer production</h2></summary><blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000090.png">John Cockerill To Launch Green Hydrogen Electrolyzer Gigafactory In Morocco</a></blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000109.png">Belgium' S John Cockerill Targets Morocco' S Green Hydrogen Industry With Gigafactory</a></blockquote>
@@ -2357,7 +2357,7 @@ categories: jekyll update
           <blockquote><a href="./images/text_docs/GreenH2/image_003204.png">African Delegation To Berlin Calls For Greater Support Around Green Hydrogen Development</a></blockquote>
      </blockquote></details>
 </blockquote></details>
-<details><summary><h1> Seawater used for hydrogen production </h1></summary><blockquote>
+<details><summary><h1> 24. Seawater used for hydrogen production </h1></summary><blockquote>
      <details><summary><h2>Innovative methods for hydrogen production</h2></summary><blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000122.png">Could Photocatalytic Water Splitters Be The Future For Green Hydrogen?</a></blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000191.png">New Paper - Is Photocatalysis The Next Technology To Produce Green Hydrogen To Enable The Net Zero Emissions Goal?</a></blockquote>
@@ -2468,7 +2468,7 @@ categories: jekyll update
           <blockquote><a href="./images/text_docs/GreenH2/image_002849.png">Emission Control: Seawater Breakthrough Could Cut Green Hydrogen Production Costs</a></blockquote>
      </blockquote></details>
 </blockquote></details>
-<details><summary><h1> Advancements in hydrogen fuel technology </h1></summary><blockquote>
+<details><summary><h1> 25. Advancements in hydrogen fuel technology </h1></summary><blockquote>
      <details><summary><h2>Partnerships and ambitions for UK hydrogen market</h2></summary><blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000146.png">Octopus Hydrogen, Greenergy Flexigrid Partner To Deliver Green Hydrogen To UK Customers</a></blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000188.png">Greenergy And Octopus Hydrogen Begin Strategic Green Hydrogen Delivery Partnership</a></blockquote>
@@ -2789,7 +2789,7 @@ categories: jekyll update
           <blockquote><a href="./images/text_docs/GreenH2/image_003403.png">Fendt Unveils Hydrogen-powered Tractor Prototype At German Summit</a></blockquote>
      </blockquote></details>
 </blockquote></details>
-<details><summary><h1> Stocks and policies for hydrogen growth </h1></summary><blockquote>
+<details><summary><h1> 26. Stocks and policies for hydrogen growth </h1></summary><blockquote>
      <details><summary><h2>Hyzon Motors' Delayed Disclosure Hearings</h2></summary><blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000687.png">Hyzon Motors Is Still Not Filing Its Reports</a></blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_002517.png">Hyzon Motors – No News Until February 2023?</a></blockquote>
@@ -2840,7 +2840,7 @@ categories: jekyll update
           <blockquote><a href="./images/text_docs/GreenH2/image_002624.png">Bloom Energy – Outlook Creates Ground For A Good Year</a></blockquote>
      </blockquote></details>
 </blockquote></details>
-<details><summary><h1> Companies and industries driving innovation </h1></summary><blockquote>
+<details><summary><h1> 27. Companies and industries driving innovation </h1></summary><blockquote>
      <details><summary><h2>Nel ASA expands production for electrolysers</h2></summary><blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000001.png">Nel ASA: Nel Signs With HH2E For Potential 120 MW Hydrogen Agreement Electrolyzer Capacity In Germany</a></blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000002.png">Nel Awarded Contracts For Hydrogen Electrolysis Projects In Germany And Norway</a></blockquote>
@@ -3058,7 +3058,7 @@ categories: jekyll update
           <blockquote><a href="./images/text_docs/GreenH2/image_003447.png">Plug Power Inc. (PLUG) Q4 2022 Earnings Call Transcript</a></blockquote>
      </blockquote></details>
 </blockquote></details>
-<details><summary><h1> International energy and geopolitical issues </h1></summary><blockquote>
+<details><summary><h1> 28. International energy and geopolitical issues </h1></summary><blockquote>
      <details><summary><h2>Geopolitical and production concerns</h2></summary><blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000725.png">Algeria Aspires To Becoming Key Energy Provider To Europe, But Conflict With Morocco Is A Problem</a></blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000886.png">Is China Overly Reliant On Middle Eastern Oil?</a></blockquote>
@@ -3102,7 +3102,7 @@ categories: jekyll update
           <blockquote><a href="./images/text_docs/GreenH2/image_002643.png">The Geopolitics Of Sri Lanka' S Energy Crisis</a></blockquote>
      </blockquote></details>
 </blockquote></details>
-<details><summary><h1> News coverage of industry developments </h1></summary><blockquote>
+<details><summary><h1> 29. News coverage of industry developments </h1></summary><blockquote>
      <details><summary><h2>Wind power fuel generation in Texas and Wyoming</h2></summary><blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000169.png">Texas Project Will Use Wind To Make Fuel Out Of Water</a></blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000223.png">Texas Project To Use Wind To Make Fuel From Water</a></blockquote>
@@ -3230,7 +3230,7 @@ categories: jekyll update
           <blockquote><a href="./images/text_docs/GreenH2/image_003335.png">Forrest Says Australia Will Miss Green Hydrogen Bus As Projects, Capital And People Head To US</a></blockquote>
      </blockquote></details>
 </blockquote></details>
-<details><summary><h1> North America and Latin America energy market </h1></summary><blockquote>
+<details><summary><h1> 30. North America and Latin America energy market </h1></summary><blockquote>
      <details><summary><h2>North America's energy transition acceleration and challenges</h2></summary><blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000076.png">North American Power Market Growth Opportunities Report 2022: What Role Will Renewables, CCSU, Digitalization, Energy Storage, Electrification, And Hydrogen Play?</a></blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000632.png">North American Power Market Report 2022: Acceleration Of Renewable Energy (RE) Deployment, Disruptive Technologies, And The Growing Energy Diversification Will Shape Growth Strategies</a></blockquote>
@@ -3269,7 +3269,7 @@ categories: jekyll update
           <blockquote><a href="./images/text_docs/GreenH2/image_003297.png">How Latin American Family Businesses Can Pursue Social Engagement</a></blockquote>
      </blockquote></details>
 </blockquote></details>
-<details><summary><h1> Articles discuss hydrogen in aviation industry </h1></summary><blockquote>
+<details><summary><h1> 31. Articles discuss hydrogen in aviation industry </h1></summary><blockquote>
      <details><summary><h2>Alternatives to traditional air travel fuel</h2></summary><blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000114.png">Electric Planes Sound Like A Fantasy But They May Be The Future For Short-haul In Australia</a></blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_001178.png">NASA And Boeing To Develop 'airliner Of The Future'</a></blockquote>
@@ -3312,7 +3312,7 @@ categories: jekyll update
           <blockquote><a href="./images/text_docs/GreenH2/image_003332.png">Aviation Biofuel Would Need Half Of UK Agricultural Land, Report Says</a></blockquote>
      </blockquote></details>
 </blockquote></details>
-<details><summary><h1> Expansion and partnerships in clean energy </h1></summary><blockquote>
+<details><summary><h1> 32. Expansion and partnerships in clean energy </h1></summary><blockquote>
      <details><summary><h2>Capstone Green Energy's Follow-On Orders and Presentations</h2></summary><blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000628.png">Capstone Green Energy To Participate In Renmark Financial Virtual Non-Deal Roadshow Series On January 17, 2023</a></blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000629.png">Capstone Green Energy To Participate In Renmark Financial Virtual Non-Deal Roadshow Series On January 12, 2023</a></blockquote>
@@ -3347,7 +3347,7 @@ categories: jekyll update
           <blockquote><a href="./images/text_docs/GreenH2/image_003084.png">Mott To Open New US Facility To Support Hydrogen Solutions</a></blockquote>
      </blockquote></details>
 </blockquote></details>
-<details><summary><h1> Innovation and Investment in Hydrogen Technology </h1></summary><blockquote>
+<details><summary><h1> 33. Innovation and Investment in Hydrogen Technology </h1></summary><blockquote>
      <details><summary><h2>Spain and Portugal's leadership in hydrogen innovation</h2></summary><blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000145.png">Spain Set To Approve First Four Green Hydrogen Projects</a></blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000192.png">Spain - Goverment To Approve On Tuesday Green Hydrogen Projects Regulation In Spain</a></blockquote>
@@ -3787,7 +3787,7 @@ categories: jekyll update
           <blockquote><a href="./images/text_docs/GreenH2/image_003282.png">Europe Sets More Ambitious Medium Term Hydrogen Deployments</a></blockquote>
      </blockquote></details>
 </blockquote></details>
-<details><summary><h1> Renewable energy investment and innovation </h1></summary><blockquote>
+<details><summary><h1> 34. Renewable energy investment and innovation </h1></summary><blockquote>
      <details><summary><h2>Renewable energy sector sees significant growth</h2></summary><blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000142.png">2023 Predictions: BayWa R.e. Bosses Highlight Four Sectors To Watch</a></blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_001312.png">RES Starts 2023 With 23 GW Renewable Success</a></blockquote>
@@ -4051,7 +4051,7 @@ categories: jekyll update
           <blockquote><a href="./images/text_docs/GreenH2/image_003122.png">Nobel Laureate Gives Talk On Moving Toward Zero Carbon Emissions</a></blockquote>
      </blockquote></details>
 </blockquote></details>
-<details><summary><h1> Renewable energy and sustainable technologies </h1></summary><blockquote>
+<details><summary><h1> 35. Renewable energy and sustainable technologies </h1></summary><blockquote>
      <details><summary><h2>Market analysis and growth forecast for hydrogen</h2></summary><blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000000.png">2023-2028 Green Hydrogen Market Research Methodology, Business Opportunities, Statistics, And Analysis</a></blockquote>
           <blockquote><a href="./images/text_docs/GreenH2/image_000010.png">Green Hydrogen Market Research Report With Opportunities And Strategies To Boost Growth, COVID-19 Impact And Recovery 2022 To 2030 | Air Liquide S.A., Air Products And Chemicals Inc.</a></blockquote>
